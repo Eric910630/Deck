@@ -26,7 +26,7 @@ class DeckPPTTool(BaseTool):
         """同步运行工具"""
         try:
             if template_path is None:
-                default_template = Path(__file__).parent.parent.parent / "framework_template.pptx"
+                default_template = Path(__file__).parent.parent.parent.parent / "framework_template.pptx"
                 if not default_template.exists():
                     return f"PPT生成失败: 未找到默认模板文件 {default_template}"
                 template_path = str(default_template)
@@ -46,7 +46,7 @@ class DeckPPTTool(BaseTool):
         """异步运行工具"""
         try:
             if template_path is None:
-                default_template = Path(__file__).parent.parent.parent / "framework_template.pptx"
+                default_template = Path(__file__).parent.parent.parent.parent / "framework_template.pptx"
                 if not default_template.exists():
                     return f"PPT生成失败: 未找到默认模板文件 {default_template}"
                 template_path = str(default_template)

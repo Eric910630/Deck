@@ -15,8 +15,8 @@ from pptx import Presentation
 from pptx.util import Cm
 from loguru import logger
 
-from src.rendering.dom_analyzer import DOMAnalyzer
-from src.rendering.native_compositor import NativeCompositor
+from langchain_deck.rendering.dom_analyzer import DOMAnalyzer
+from langchain_deck.rendering.native_compositor import NativeCompositor
 
 
 async def test_native_compositor():

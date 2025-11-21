@@ -16,11 +16,11 @@ from loguru import logger
 # 添加当前目录到路径
 sys.path.insert(0, str(Path(__file__).parent))
 
-from src.core.ppt_generator import PPTGenerator
+from langchain_deck.core.ppt_generator import PPTGenerator
 from scripts.vinci_integration import create_vinci_integration
-from src.core.llm_service import create_llm_service
+from langchain_deck.core.llm_service import create_llm_service
 from scripts.layout_generator import create_layout_generator
-from src.core.ppt_filler import PPTFiller
+from langchain_deck.core.ppt_filler import PPTFiller
 
 
 def load_input_file(input_path: str) -> dict:

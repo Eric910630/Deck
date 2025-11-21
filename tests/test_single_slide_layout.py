@@ -10,8 +10,8 @@ from pathlib import Path
 project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
-from src.rendering.html_generator import HTMLGenerator
-from src.rendering.html_canvas_generator import HTMLCanvasGenerator
+from langchain_deck.rendering.html_generator import HTMLGenerator
+from langchain_deck.rendering.html_canvas_generator import HTMLCanvasGenerator
 from loguru import logger
 from datetime import datetime
 

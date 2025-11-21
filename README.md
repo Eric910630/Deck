@@ -1,150 +1,188 @@
-# Deck - PPT生成工具
+<div align="center">
 
-## 项目简介
+# 🃏 Deck
 
-基于LLM的智能PPT生成工具，支持从Word文档生成专业的PowerPoint演示文稿。
+**The Missing Presentation Layer for AI Agents.**  
+**AI Agent 的演示文稿渲染引擎**
 
-## 快速开始
+[![PyPI version](https://badge.fury.io/py/langchain-deck.svg)](https://badge.fury.io/py/langchain-deck)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Powered by BeeWise](https://img.shields.io/badge/Powered%20by-BeeWise-blue)](https://github.com/Eric910630/Deck)
 
-### 安装依赖
+[English](#-english) | [中文文档](#-中文文档)
+
+</div>
+
+---
+
+## 🇬🇧 English
+
+### 🚀 Why Deck?
+
+Building PowerPoint automations with `python-pptx` is painful. You have to calculate coordinates, handle text wrapping manually, and struggle with limited styling options.
+
+**Deck** changes the game. It treats **PowerPoint generation as a rendering problem**:
+
+1.  **LLMs write HTML/CSS** (which they are great at).
+2.  **Deck renders it** using a headless browser to calculate precise layouts (Flexbox, Grid, Shadows).
+3.  **Deck compiles it** into **NATIVE** PowerPoint shapes.
+
+**Result:** You get the beauty of Web Design with the editability of Native PPT. **No screenshots. No background images. 100% Editable Shapes.**
+
+### ✨ Features
+
+- **CSS-First Architecture**: Design your slides using Flexbox, Grid, and CSS variables.
+- **Native Compilation**: Converts HTML elements into native PPTX Shapes, TextFrames, and Tables.
+- **100% Editable**: Text remains text. Colors remain colors. Users can edit everything in PowerPoint.
+- **High-Fidelity**: Supports rounded corners, complex shadows, and transparency.
+- **Ant Design System**: Built-in support for professional UI aesthetics.
+- **LangChain Ready**: Designed to be the standard Presentation Tool for AI Agents.
+
+### 📦 Installation
 
 ```bash
-pip install -r requirements.txt
+pip install langchain-deck
+playwright install chromium
 ```
 
-### 基本使用
-
-```bash
-python cli.py --framework framework_template.pptx --fill-prompt "你的需求描述"
-```
-
-## 目录结构
-
-```
-Deck/
-├── README.md                    # 项目说明（本文件）
-├── requirements.txt              # Python依赖
-├── Demo文档.docx                 # 示例文档
-│
-├── docs/                        # 📚 文档目录
-│   ├── DIRECTORY_ORGANIZATION.md # 目录整理说明
-│   ├── DESIGN_SYSTEM.md         # 设计系统文档
-│   ├── TEST_GUIDE.md            # 测试指南
-│   └── ...                      # 其他文档
-│
-├── logs/                        # 📝 日志目录
-│   └── *.log                    # 所有日志文件
-│
-├── outputs/                     # 📊 输出目录
-│   └── ppt/                     # PPT文件
-│
-├── tests/                       # 🧪 测试目录
-│   └── test_*.py               # 测试脚本
-│
-├── debug/                       # 🐛 调试目录
-│   ├── debug_*.py              # 调试脚本
-│   ├── *.html                  # HTML调试文件
-│   └── *.png                   # 截图文件
-│
-├── config/                      # ⚙️ 配置目录
-│   └── *.json                  # 配置文件
-│
-├── examples/                    # 📖 示例目录
-│   ├── demo_*.py               # 演示脚本
-│   └── example_*.json          # 示例JSON
-│
-└── [核心代码模块]                # 核心Python模块
-    ├── ppt_filler.py           # PPT填充器
-    ├── html_generator.py       # HTML生成器
-    ├── human_centered_analyzer.py # 人类中心化分析器
-    └── ...
-```
-
-## 核心功能
-
-### 1. 人类中心化分析
-- 6层深度分析
-- 智能识别文档结构和内容
-
-### 2. 内容生成
-- 内容润色（ContentPolisher）
-- 展示策划（PresentationPlanner）
-- 布局规划（LayoutPlanner）
-- 颜色配置（ColorConfigurator）
-
-### 3. HTML生成
-- 基于Ant Design规范
-- 24栅格系统布局
-- 支持颜色配置
-
-### 4. PPT转换
-- 浏览器渲染（Playwright）
-- 元素分析和提取
-- 坐标映射和PPT复刻
-
-## 使用模式
-
-### HTML生成模式（推荐用于开发调试）
-
-跳过PPT转换，仅生成HTML文件：
+### 💻 Usage
 
 ```python
-output_path = await filler.fill_from_prompt(
-    prompt=user_prompt,
-    output_path="output.pptx",
-    use_enhanced_analysis=True,
-    skip_ppt_conversion=True  # 跳过PPT转换
-)
+from langchain_deck.core.ppt_filler import PPTFiller
+import asyncio
+
+async def generate():
+    # Initialize the engine
+    filler = PPTFiller(use_browser_rendering=True)
+    
+    # Generate from a natural language prompt
+    output_path = await filler.fill_from_prompt(
+        "Create a 3-slide pitch deck for an AI startup."
+    )
+    print(f"PPT generated at: {output_path}")
+
+if __name__ == "__main__":
+    asyncio.run(generate())
 ```
 
-HTML文件将保存在 `html_output/` 目录中。
+---
 
-### 完整PPT生成模式
+## 🇨🇳 中文文档
 
-生成完整的PPT文件：
+### 🚀 为什么选择 Deck?
 
-```python
-output_path = await filler.fill_from_prompt(
-    prompt=user_prompt,
-    output_path="output.pptx",
-    use_enhanced_analysis=True,
-    skip_ppt_conversion=False  # 默认值
-)
-```
+用 `python-pptx` 写代码生成 PPT 是极其痛苦的。你需要手动计算坐标、处理文字换行，而且很难做出好看的样式。
 
-## 测试
+**Deck** 改变了这一切。它将 **PPT 生成视为一个渲染问题**：
 
-运行完整流程测试：
+1.  **让 LLM 写 HTML/CSS**（这是 LLM 最擅长的）。
+2.  **Deck 进行渲染**：使用无头浏览器计算精确布局（Flexbox, Grid, 阴影）。
+3.  **Deck 进行编译**：将渲染结果"编译"为 **原生的** PowerPoint 形状。
+
+**结果：** 你拥有了 Web 设计的精美度，同时保留了 PPT 的原生可编辑性。**没有截图，没有背景图，所有元素都是原生可编辑的形状。**
+
+### ✨ 核心特性
+
+- **CSS 优先架构**：使用 Flexbox、Grid 和 CSS 变量设计幻灯片。
+- **原生编译**：将 HTML 元素转换为原生的 PPTX 形状、文本框和表格。
+- **100% 可编辑**：文字还是文字，颜色还是颜色。用户可以在 PPT 中修改任何内容。
+- **高保真**：支持圆角、复杂阴影和透明度。
+- **Ant Design 系统**：内置专业级 UI 审美。
+- **LangChain 集成**：专为 AI Agent 设计的演示文稿工具。
+
+### 📦 安装
 
 ```bash
-python tests/test_docx_to_ppt_full_flow.py
+pip install langchain-deck
+playwright install chromium
 ```
 
-## 文档
+### 💻 使用方法
 
-详细文档请查看 `docs/` 目录：
-- `docs/DIRECTORY_ORGANIZATION.md` - 目录结构说明
-- `docs/DESIGN_SYSTEM.md` - 设计系统文档
-- `docs/TEST_GUIDE.md` - 测试指南
-- 更多文档...
+#### 1. 基础用法 (Python)
 
-## 开发
+```python
+from langchain_deck.core.ppt_filler import PPTFiller
+import asyncio
 
-### 代码结构
+async def generate():
+    # 初始化引擎
+    filler = PPTFiller(
+        framework_path="template.pptx", # 可选：基础模板
+        use_browser_rendering=True      # 启用 CSS-to-Native 引擎
+    )
+    
+    # 通过自然语言生成
+    output_path = await filler.fill_from_prompt(
+        "帮我生成一份关于企业搜索的 AI 创业计划书，共3页。"
+    )
+    print(f"PPT 已生成: {output_path}")
 
-- **核心模块**：保留在根目录，便于导入
-- **工具脚本**：部分保留在根目录（如 `create_framework_ppt.py`）
-- **测试脚本**：位于 `tests/` 目录
-- **调试脚本**：位于 `debug/` 目录
+if __name__ == "__main__":
+    asyncio.run(generate())
+```
 
-### 目录整理规则
+#### 2. 命令行使用 (CLI)
 
-详见 `docs/DIRECTORY_ORGANIZATION.md`
+```bash
+# 通过提示词生成
+deck --generate "一份关于下季度销售目标的汇报" --output-dir ./my-slides
+```
 
-## 许可证
+---
 
-[待添加]
+## 🦜🔗 LangChain 集成 (LangChain Integration)
 
-## 贡献
+Deck 旨在成为 LangChain Agent 的标准 **演示文稿工具 (Presentation Tool)**。
 
-[待添加]
+```python
+from langchain.agents import initialize_agent, AgentType
+from langchain.llms import OpenAI
+from langchain_deck.tool import DeckPPTTool
+
+# 1. 初始化工具
+ppt_tool = DeckPPTTool()
+
+# 2. 初始化 Agent
+llm = OpenAI(temperature=0)
+tools = [ppt_tool]
+agent = initialize_agent(
+    tools, 
+    llm, 
+    agent=AgentType.STRUCTURED_CHAT_ZERO_SHOT_REACT_DESCRIPTION, 
+    verbose=True
+)
+
+# 3. 运行
+agent.run("分析上传的 CSV 数据，并生成一张总结性的 PPT 幻灯片。")
+```
+
+---
+
+## 🏗 架构原理
+
+Deck 的工作流分为三步：
+
+1.  **Planning (大脑)**: LLM 根据内容策略生成布局方案和 HTML/CSS 代码。
+2.  **Rendering (眼睛)**: 无头浏览器 (Playwright) 渲染 HTML。`DOMAnalyzer` 提取计算后的样式（几何信息、颜色、阴影、排版）。
+3.  **Composition (手)**: `NativeCompositor` 将 DOM 数据映射为 `python-pptx` API 调用，以像素级精度绘制原生形状。
+
+---
+
+## 🤝 商业支持
+
+Deck 是 **BeeWise** 的开源核心引擎。
+
+如果您需要企业级解决方案，包括：
+- 🏢 **企业知识库集成**
+- 📄 **长文档分析 (PDF/Docx 转 PPT)**
+- 🎨 **定制品牌模板**
+- 👥 **团队协作空间**
+
+请联系我们要 **BeeWise 商业版**。
+
+---
+
+## 📄 License
+
+MIT License. 欢迎在您的商业项目中使用。

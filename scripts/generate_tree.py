@@ -4,8 +4,8 @@ from pathlib import Path
 
 # ================= 配置区域 =================
 
-# 目标扫描目录 (默认为当前脚本所在目录)
-TARGET_DIR = Path(__file__).parent
+# 目标扫描目录 (项目根目录)
+TARGET_DIR = Path(__file__).parent.parent
 
 # 扫描深度限制
 MAX_DEPTH = 4
