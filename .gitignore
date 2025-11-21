@@ -1,18 +1,46 @@
+# Python
+
 __pycache__/
 *.pyc
-.env
+*.pyo
+*.pyd
+.Python
+env/
 venv/
-dist/
+.env
+
+# Build & Dist
+
 build/
+dist/
 *.egg-info/
-ppt_outputs/
-html_output/
-replicated_outputs/
-test_outputs/
-*.log
-.DS_Store
-charts/
-html_debug/
+
+# Output Directories (Generated Content)
+
 outputs/
 logs/
+debug/
+html_output/
+ppt_outputs/
+replicated_outputs/
+test_outputs/
+charts/
 
+# Documents & Assets
+
+docs/
+*.docx
+*.pptx
+*.pdf
+*.png
+*.jpg
+
+# IDE
+
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+
+*.log
