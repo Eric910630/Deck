@@ -44,3 +44,9 @@ docs/
 # Logs
 
 *.log
+
+# Project Docs
+
+Deck.md
+project_snapshot*.md
+project_structure.txt
