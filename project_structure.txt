@@ -1,0 +1,10 @@
+scripts/
+├── analyze_demo_docx.py
+├── create_framework_ppt.py
+├── deep_analyze_demo_docx.py
+├── generate_snapshot_optimized.py
+├── layout_generator.py
+├── quick_debug_html.py
+├── test_canvas_generator.py
+├── verify_fixes.py
+└── vinci_integration.py

@@ -1,0 +1,356 @@
+2025-11-19 16:56:57.901 | INFO     | ppt_parser:__init__:31 - --- [PPTParser]: Loaded PPT: demo_filled.pptx
+2025-11-19 16:56:57.905 | INFO     | ppt_parser:extract_structure:76 - --- [PPTParser]: Extracted structure from 3 slides
+2025-11-19 16:56:57.906 | DEBUG    | ppt_parser:extract_text_summary:192 - --- [PPTParser]: Extracted text summary:
+PPT框架文档包含 3 张幻灯片。
+
+
+幻灯片 1:
+  内容: 人工智能技术概述 | 探索AI技术的核心原理、发展历程与未来趋势
+  占位符数量: 2
+
+幻灯片 2:
+  内容: 人工智能核心技术介绍 | • 机器学习：通过算法让计算机从数据中学习规律
+• 深度学习：基于神经网络的复杂模式识别技术
+• 自然语言处理：让机器理解和生成人类语言
+• 计算机视觉：使计算机能够"看懂"图像和视频
+• 强化学习：通过试错机制优化决策过程
+  占位符数量: 2
+
+幻灯片 3:
+  内容: [自定义标题] | [自定义内容占位符]
+
+可以在这里添加更多内容...
+2025-11-19 16:56:57.910 | INFO     | ppt_parser:__init__:31 - --- [PPTParser]: Loaded PPT: demo_filled.pptx
+2025-11-19 16:56:57.964 | INFO     | llm_service:__init__:62 - --- [LLMService]: Initialized with model=deepseek-chat, base_url=https://api.deepseek.com/v1
+2025-11-19 16:56:57.964 | INFO     | ppt_filler:__init__:48 - --- [PPTFiller]: Initialized
+2025-11-19 16:57:16.478 | INFO     | ppt_filler:_fill_ppt:212 - ================================================================================
+2025-11-19 16:57:16.478 | INFO     | ppt_filler:_fill_ppt:213 - --- [PPTFiller]: 开始填充PPT流程
+2025-11-19 16:57:16.478 | INFO     | ppt_filler:_fill_ppt:214 - ================================================================================
+2025-11-19 16:57:16.481 | INFO     | ppt_filler:_fill_ppt:221 - --- [PPTFiller]: 已复制框架PPT到: demo_interpretation_output.pptx
+2025-11-19 16:57:16.489 | INFO     | ppt_filler:_fill_ppt:232 - --- [PPTFiller]: 【尺寸检查】原始PPT尺寸:
+2025-11-19 16:57:16.489 | INFO     | ppt_filler:_fill_ppt:233 -    宽度: 25.40cm (9144000 EMU)
+2025-11-19 16:57:16.489 | INFO     | ppt_filler:_fill_ppt:234 -    高度: 19.05cm (6858000 EMU)
+2025-11-19 16:57:16.489 | INFO     | ppt_filler:_fill_ppt:235 -    宽高比: 1.33
+2025-11-19 16:57:16.489 | INFO     | ppt_filler:_fill_ppt:236 -    16:9 = 1.78, 4:3 = 1.33
+2025-11-19 16:57:16.489 | INFO     | ppt_filler:_fill_ppt:237 -    是否为16:9: False
+2025-11-19 16:57:16.489 | INFO     | ppt_filler:_fill_ppt:238 -    是否为4:3: True
+2025-11-19 16:57:16.489 | WARNING  | ppt_filler:_fill_ppt:244 - --- [PPTFiller]: 【尺寸修复】检测到非16:9比例，正在转换为16:9...
+2025-11-19 16:57:16.490 | INFO     | ppt_filler:_fill_ppt:248 - --- [PPTFiller]: 【尺寸修复】已设置为16:9:
+2025-11-19 16:57:16.490 | INFO     | ppt_filler:_fill_ppt:249 -    新宽度: 33.87cm
+2025-11-19 16:57:16.490 | INFO     | ppt_filler:_fill_ppt:250 -    新高度: 19.05cm
+2025-11-19 16:57:16.490 | INFO     | ppt_filler:_fill_ppt:251 -    新宽高比: 1.78 (目标: 1.78)
+2025-11-19 16:57:16.490 | INFO     | ppt_filler:_fill_ppt:256 - --- [PPTFiller]: 【设计规范】开始应用Ant Design设计规范...
+2025-11-19 16:57:16.490 | INFO     | ppt_filler:_fill_ppt:257 -    主色: #1890ff
+2025-11-19 16:57:16.490 | INFO     | ppt_filler:_fill_ppt:258 -    文本色: #262626
+2025-11-19 16:57:16.490 | INFO     | ppt_filler:_fill_ppt:259 -    字体族: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif
+2025-11-19 16:57:16.490 | INFO     | ppt_filler:_fill_ppt:260 -    标题字号: 38pt
+2025-11-19 16:57:16.491 | INFO     | ppt_filler:_fill_ppt:261 -    正文字号: 14pt
+2025-11-19 16:57:16.491 | INFO     | ppt_filler:_fill_ppt:264 - --- [PPTFiller]: 【内容填充】开始填充 3 张幻灯片...
+2025-11-19 16:57:16.491 | INFO     | ppt_filler:_fill_ppt:266 - --- [PPTFiller]: 【内容填充】处理幻灯片 1/3
+2025-11-19 16:57:16.492 | DEBUG    | ppt_filler:_fill_ppt:276 - --- [PPTFiller]: 【占位符】幻灯片0, 占位符0, key=slide_0_placeholder_0
+2025-11-19 16:57:16.493 | DEBUG    | ppt_filler:_fill_ppt:282 - --- [PPTFiller]: 【填充前】占位符0内容: 人工智能技术概述...
+2025-11-19 16:57:16.493 | DEBUG    | ppt_filler:_fill_ppt:289 - --- [PPTFiller]: 【内容】占位符0新内容长度: 8字符
+2025-11-19 16:57:16.493 | DEBUG    | ppt_filler:_fill_ppt:294 - --- [PPTFiller]: 【段落】占位符0包含1个段落
+2025-11-19 16:57:16.493 | DEBUG    | ppt_filler:_apply_ant_design_style:364 - --- [PPTFiller]: 【字体应用】幻灯片0, 占位符0
+2025-11-19 16:57:16.494 | DEBUG    | ppt_filler:_apply_ant_design_style:367 - --- [PPTFiller]: 【字体】设置为: Segoe UI
+2025-11-19 16:57:16.494 | DEBUG    | ppt_filler:_apply_ant_design_style:386 - --- [PPTFiller]: 【字号】占位符0设置为标题: 38pt, 加粗
+2025-11-19 16:57:16.494 | DEBUG    | ppt_filler:_apply_ant_design_style:402 - --- [PPTFiller]: 【颜色】设置为: #262626 (RGB: 38, 38, 38)
+2025-11-19 16:57:16.494 | INFO     | ppt_filler:_fill_ppt:308 - --- [PPTFiller]: 【填充成功】幻灯片0, 占位符0
+2025-11-19 16:57:16.494 | DEBUG    | ppt_filler:_fill_ppt:276 - --- [PPTFiller]: 【占位符】幻灯片0, 占位符1, key=slide_0_placeholder_1
+2025-11-19 16:57:16.495 | DEBUG    | ppt_filler:_fill_ppt:282 - --- [PPTFiller]: 【填充前】占位符1内容: 探索AI技术的核心原理、发展历程与未来趋势...
+2025-11-19 16:57:16.495 | DEBUG    | ppt_filler:_fill_ppt:289 - --- [PPTFiller]: 【内容】占位符1新内容长度: 171字符
+2025-11-19 16:57:16.495 | DEBUG    | ppt_filler:_fill_ppt:294 - --- [PPTFiller]: 【段落】占位符1包含1个段落
+2025-11-19 16:57:16.495 | DEBUG    | ppt_filler:_apply_ant_design_style:364 - --- [PPTFiller]: 【字体应用】幻灯片0, 占位符1
+2025-11-19 16:57:16.495 | DEBUG    | ppt_filler:_apply_ant_design_style:367 - --- [PPTFiller]: 【字体】设置为: Segoe UI
+2025-11-19 16:57:16.495 | DEBUG    | ppt_filler:_apply_ant_design_style:391 - --- [PPTFiller]: 【字号】占位符1设置为正文: 14pt
+2025-11-19 16:57:16.495 | DEBUG    | ppt_filler:_apply_ant_design_style:402 - --- [PPTFiller]: 【颜色】设置为: #262626 (RGB: 38, 38, 38)
+2025-11-19 16:57:16.495 | INFO     | ppt_filler:_fill_ppt:308 - --- [PPTFiller]: 【填充成功】幻灯片0, 占位符1
+2025-11-19 16:57:16.495 | INFO     | ppt_filler:_fill_ppt:319 - --- [PPTFiller]: 【幻灯片完成】幻灯片0: 2/2个占位符已填充
+2025-11-19 16:57:16.495 | INFO     | ppt_filler:_fill_ppt:266 - --- [PPTFiller]: 【内容填充】处理幻灯片 2/3
+2025-11-19 16:57:16.496 | DEBUG    | ppt_filler:_fill_ppt:276 - --- [PPTFiller]: 【占位符】幻灯片1, 占位符0, key=slide_1_placeholder_0
+2025-11-19 16:57:16.496 | DEBUG    | ppt_filler:_fill_ppt:282 - --- [PPTFiller]: 【填充前】占位符0内容: 人工智能核心技术介绍...
+2025-11-19 16:57:16.496 | DEBUG    | ppt_filler:_fill_ppt:289 - --- [PPTFiller]: 【内容】占位符0新内容长度: 10字符
+2025-11-19 16:57:16.496 | DEBUG    | ppt_filler:_fill_ppt:294 - --- [PPTFiller]: 【段落】占位符0包含1个段落
+2025-11-19 16:57:16.496 | DEBUG    | ppt_filler:_apply_ant_design_style:364 - --- [PPTFiller]: 【字体应用】幻灯片1, 占位符0
+2025-11-19 16:57:16.496 | DEBUG    | ppt_filler:_apply_ant_design_style:367 - --- [PPTFiller]: 【字体】设置为: Segoe UI
+2025-11-19 16:57:16.496 | DEBUG    | ppt_filler:_apply_ant_design_style:386 - --- [PPTFiller]: 【字号】占位符0设置为标题: 38pt, 加粗
+2025-11-19 16:57:16.496 | DEBUG    | ppt_filler:_apply_ant_design_style:402 - --- [PPTFiller]: 【颜色】设置为: #262626 (RGB: 38, 38, 38)
+2025-11-19 16:57:16.496 | INFO     | ppt_filler:_fill_ppt:308 - --- [PPTFiller]: 【填充成功】幻灯片1, 占位符0
+2025-11-19 16:57:16.497 | DEBUG    | ppt_filler:_fill_ppt:276 - --- [PPTFiller]: 【占位符】幻灯片1, 占位符1, key=slide_1_placeholder_1
+2025-11-19 16:57:16.497 | DEBUG    | ppt_filler:_fill_ppt:282 - --- [PPTFiller]: 【填充前】占位符1内容: • 机器学习：通过算法让计算机从数据中学习规律
+• 深度学习：基于神经网络的复杂模式识别技术
+• 自...
+2025-11-19 16:57:16.497 | DEBUG    | ppt_filler:_fill_ppt:289 - --- [PPTFiller]: 【内容】占位符1新内容长度: 232字符
+2025-11-19 16:57:16.497 | DEBUG    | ppt_filler:_fill_ppt:294 - --- [PPTFiller]: 【段落】占位符1包含6个段落
+2025-11-19 16:57:16.497 | DEBUG    | ppt_filler:_apply_ant_design_style:364 - --- [PPTFiller]: 【字体应用】幻灯片1, 占位符1
+2025-11-19 16:57:16.497 | DEBUG    | ppt_filler:_apply_ant_design_style:367 - --- [PPTFiller]: 【字体】设置为: Segoe UI
+2025-11-19 16:57:16.497 | DEBUG    | ppt_filler:_apply_ant_design_style:391 - --- [PPTFiller]: 【字号】占位符1设置为正文: 14pt
+2025-11-19 16:57:16.497 | DEBUG    | ppt_filler:_apply_ant_design_style:402 - --- [PPTFiller]: 【颜色】设置为: #262626 (RGB: 38, 38, 38)
+2025-11-19 16:57:16.497 | DEBUG    | ppt_filler:_apply_ant_design_style:364 - --- [PPTFiller]: 【字体应用】幻灯片1, 占位符1
+2025-11-19 16:57:16.498 | DEBUG    | ppt_filler:_apply_ant_design_style:367 - --- [PPTFiller]: 【字体】设置为: Segoe UI
+2025-11-19 16:57:16.498 | DEBUG    | ppt_filler:_apply_ant_design_style:391 - --- [PPTFiller]: 【字号】占位符1设置为正文: 14pt
+2025-11-19 16:57:16.498 | DEBUG    | ppt_filler:_apply_ant_design_style:402 - --- [PPTFiller]: 【颜色】设置为: #262626 (RGB: 38, 38, 38)
+2025-11-19 16:57:16.498 | DEBUG    | ppt_filler:_apply_ant_design_style:364 - --- [PPTFiller]: 【字体应用】幻灯片1, 占位符1
+2025-11-19 16:57:16.498 | DEBUG    | ppt_filler:_apply_ant_design_style:367 - --- [PPTFiller]: 【字体】设置为: Segoe UI
+2025-11-19 16:57:16.498 | DEBUG    | ppt_filler:_apply_ant_design_style:391 - --- [PPTFiller]: 【字号】占位符1设置为正文: 14pt
+2025-11-19 16:57:16.498 | DEBUG    | ppt_filler:_apply_ant_design_style:402 - --- [PPTFiller]: 【颜色】设置为: #262626 (RGB: 38, 38, 38)
+2025-11-19 16:57:16.498 | DEBUG    | ppt_filler:_apply_ant_design_style:364 - --- [PPTFiller]: 【字体应用】幻灯片1, 占位符1
+2025-11-19 16:57:16.498 | DEBUG    | ppt_filler:_apply_ant_design_style:367 - --- [PPTFiller]: 【字体】设置为: Segoe UI
+2025-11-19 16:57:16.498 | DEBUG    | ppt_filler:_apply_ant_design_style:391 - --- [PPTFiller]: 【字号】占位符1设置为正文: 14pt
+2025-11-19 16:57:16.499 | DEBUG    | ppt_filler:_apply_ant_design_style:402 - --- [PPTFiller]: 【颜色】设置为: #262626 (RGB: 38, 38, 38)
+2025-11-19 16:57:16.499 | DEBUG    | ppt_filler:_apply_ant_design_style:364 - --- [PPTFiller]: 【字体应用】幻灯片1, 占位符1
+2025-11-19 16:57:16.499 | DEBUG    | ppt_filler:_apply_ant_design_style:367 - --- [PPTFiller]: 【字体】设置为: Segoe UI
+2025-11-19 16:57:16.499 | DEBUG    | ppt_filler:_apply_ant_design_style:391 - --- [PPTFiller]: 【字号】占位符1设置为正文: 14pt
+2025-11-19 16:57:16.499 | DEBUG    | ppt_filler:_apply_ant_design_style:402 - --- [PPTFiller]: 【颜色】设置为: #262626 (RGB: 38, 38, 38)
+2025-11-19 16:57:16.499 | DEBUG    | ppt_filler:_apply_ant_design_style:364 - --- [PPTFiller]: 【字体应用】幻灯片1, 占位符1
+2025-11-19 16:57:16.499 | DEBUG    | ppt_filler:_apply_ant_design_style:367 - --- [PPTFiller]: 【字体】设置为: Segoe UI
+2025-11-19 16:57:16.499 | DEBUG    | ppt_filler:_apply_ant_design_style:391 - --- [PPTFiller]: 【字号】占位符1设置为正文: 14pt
+2025-11-19 16:57:16.500 | DEBUG    | ppt_filler:_apply_ant_design_style:402 - --- [PPTFiller]: 【颜色】设置为: #262626 (RGB: 38, 38, 38)
+2025-11-19 16:57:16.500 | INFO     | ppt_filler:_fill_ppt:308 - --- [PPTFiller]: 【填充成功】幻灯片1, 占位符1
+2025-11-19 16:57:16.500 | INFO     | ppt_filler:_fill_ppt:319 - --- [PPTFiller]: 【幻灯片完成】幻灯片1: 2/2个占位符已填充
+2025-11-19 16:57:16.500 | INFO     | ppt_filler:_fill_ppt:266 - --- [PPTFiller]: 【内容填充】处理幻灯片 3/3
+2025-11-19 16:57:16.500 | INFO     | ppt_filler:_fill_ppt:319 - --- [PPTFiller]: 【幻灯片完成】幻灯片2: 0/0个占位符已填充
+2025-11-19 16:57:16.500 | INFO     | ppt_filler:_fill_ppt:321 - --- [PPTFiller]: 【内容填充】所有幻灯片处理完成
+2025-11-19 16:57:16.500 | INFO     | ppt_filler:_fill_ppt:329 - --- [PPTFiller]: 【最终检查】保存前PPT尺寸:
+2025-11-19 16:57:16.500 | INFO     | ppt_filler:_fill_ppt:330 -    宽度: 33.87cm (12192119 EMU)
+2025-11-19 16:57:16.500 | INFO     | ppt_filler:_fill_ppt:331 -    高度: 19.05cm (6858000 EMU)
+2025-11-19 16:57:16.500 | INFO     | ppt_filler:_fill_ppt:332 -    宽高比: 1.78 (目标16:9=1.78)
+2025-11-19 16:57:16.500 | INFO     | ppt_filler:_fill_ppt:333 -    是否为16:9: True
+2025-11-19 16:57:16.510 | INFO     | ppt_filler:_fill_ppt:337 - --- [PPTFiller]: 【保存完成】PPT已保存到: demo_interpretation_output.pptx
+2025-11-19 16:57:16.510 | INFO     | ppt_filler:_fill_ppt:341 - --- [PPTFiller]: 【文件验证】保存后文件大小: 31,219 bytes (30.49 KB)
+2025-11-19 16:57:16.510 | INFO     | ppt_filler:_fill_ppt:342 - ================================================================================
+2025-11-19 16:57:16.510 | INFO     | ppt_filler:_fill_ppt:343 - --- [PPTFiller]: 填充PPT流程完成
+2025-11-19 16:57:16.510 | INFO     | ppt_filler:_fill_ppt:344 - ================================================================================
+================================================================================
+Demo文档解读过程完整演示
+================================================================================
+
+输入文件: demo_filled.pptx
+
+
+================================================================================
+阶段1: 初始化PPT解析器
+================================================================================
+✅ PPT解析器已初始化
+   文件路径: demo_filled.pptx
+   文件大小: 30,504 bytes
+
+================================================================================
+阶段2: 提取PPT结构信息
+================================================================================
+
+【产出物2.1】PPT基本信息:
+{
+  "slide_count": 3,
+  "dimensions": {
+    "width_cm": 25.4,
+    "height_cm": 19.05,
+    "ratio": 1.33,
+    "is_16_9": false,
+    "is_4_3": true
+  }
+}
+
+【产出物2.2】每张幻灯片的详细结构:
+
+幻灯片 1:
+  布局名称: Title Slide
+  形状总数: 2
+  占位符数量: 2
+  文本内容数量: 2
+  占位符详情:
+    - ID: 0, 类型: CENTER_TITLE (3)
+      位置: (1.91cm, 5.92cm)
+      尺寸: 21.59cm x 4.08cm
+      有文本: True
+      文本预览: 人工智能技术概述
+    - ID: 1, 类型: SUBTITLE (4)
+      位置: (3.81cm, 10.79cm)
+      尺寸: 17.78cm x 4.87cm
+      有文本: True
+      文本预览: 探索AI技术的核心原理、发展历程与未来趋势
+
+幻灯片 2:
+  布局名称: Title and Content
+  形状总数: 2
+  占位符数量: 2
+  文本内容数量: 2
+  占位符详情:
+    - ID: 0, 类型: TITLE (1)
+      位置: (1.27cm, 0.76cm)
+      尺寸: 22.86cm x 3.17cm
+      有文本: True
+      文本预览: 人工智能核心技术介绍
+    - ID: 1, 类型: OBJECT (7)
+      位置: (1.27cm, 4.45cm)
+      尺寸: 22.86cm x 12.57cm
+      有文本: True
+      文本预览: • 机器学习：通过算法让计算机从数据中学习规律
+• 深度学习：基于神经网络的复杂模式识别技术
+• 自...
+
+幻灯片 3:
+  布局名称: Blank
+  形状总数: 2
+  占位符数量: 0
+  文本内容数量: 2
+
+================================================================================
+阶段3: 提取文本摘要（用于LLM理解）
+================================================================================
+
+【产出物3】文本摘要:
+PPT框架文档包含 3 张幻灯片。
+
+
+幻灯片 1:
+  内容: 人工智能技术概述 | 探索AI技术的核心原理、发展历程与未来趋势
+  占位符数量: 2
+
+幻灯片 2:
+  内容: 人工智能核心技术介绍 | • 机器学习：通过算法让计算机从数据中学习规律
+• 深度学习：基于神经网络的复杂模式识别技术
+• 自然语言处理：让机器理解和生成人类语言
+• 计算机视觉：使计算机能够"看懂"图像和视频
+• 强化学习：通过试错机制优化决策过程
+  占位符数量: 2
+
+幻灯片 3:
+  内容: [自定义标题] | [自定义内容占位符]
+
+可以在这里添加更多内容...
+
+================================================================================
+阶段4: 获取占位符映射
+================================================================================
+
+【产出物4】占位符映射:
+{
+  "0": [
+    {
+      "placeholder_id": 0,
+      "placeholder_type": "CENTER_TITLE (3)",
+      "has_text": true,
+      "text": "人工智能技术概述"
+    },
+    {
+      "placeholder_id": 1,
+      "placeholder_type": "SUBTITLE (4)",
+      "has_text": true,
+      "text": "探索AI技术的核心原理、发展历程与未来趋势"
+    }
+  ],
+  "1": [
+    {
+      "placeholder_id": 0,
+      "placeholder_type": "TITLE (1)",
+      "has_text": true,
+      "text": "人工智能核心技术介绍"
+    },
+    {
+      "placeholder_id": 1,
+      "placeholder_type": "OBJECT (7)",
+      "has_text": true,
+      "text": "• 机器学习：通过算法让计算机从数据中学习规律\n• 深度学习：基于神经网络的复杂模式识别技术\n• 自然语言处理：让机器理解和生成人类语言\n• 计算机视觉：使计算机能够\"看懂\"图像和视频\n• 强化学习：通过试错机制优化决策过程"
+    }
+  ]
+}
+
+================================================================================
+阶段5: 使用LLM生成内容
+================================================================================
+
+用户提示词: 制作一个关于人工智能技术的演示文稿，包含技术介绍、应用场景和未来展望
+
+【产出物5.1】发送给LLM的系统提示词:
+你是一个专业的PPT内容创作助手。你的任务是根据用户需求和PPT框架结构，为每张幻灯片的占位符生成合适的内容。
+
+要求：
+1. 理解PPT框架的结构和现有内容（如果有）
+2. 根据用户需求生成专业、相关的内容
+3. 为每个占位符生成合适的内容
+4. 保持内容的逻辑连贯性和专业性
+5. 标题要简洁有力，正文要详细但不过长
+
+输出格式（JSON）：
+{
+  "slide_0_placeholder_0": "标题内容",
+  "slide_0_placeholder_1": "正文内容",
+  "slide_1_placeholder_0": "标题内容",
+  ...
+}
+
+占位符标识格式：slide_{幻灯片索引}_placeholder_{占位符ID}
+
+【产出物5.2】发送给LLM的用户提示词:
+PPT框架信息：
+PPT框架文档包含 3 张幻灯片。
+
+
+幻灯片 1:
+  内容: 人工智能技术概述 | 探索AI技术的核心原理、发展历程与未来趋势
+  占位符数量: 2
+
+幻灯片 2:
+  内容: 人工智能核心技术介绍 | • 机器学习：通过算法让计算机从数据中学习规律
+• 深度学习：基于神经网络的复杂模式识别技术
+• 自然语言处理：让机器理解和生成人类语言
+• 计算机视觉：使计算机能够"看懂"图像和视频
+• 强化学习：通过试错机制优化决策过程
+  占位符数量: 2
+
+幻灯片 3:
+  内容: [自定义标题] | [自定义内容占位符]
+
+可以在这里添加更多内容...
+
+用户需求：制作一个关于人工智能技术的演示文稿，包含技术介绍、应用场景和未来展望
+
+请为每张幻灯片的占位符生成合适的内容。如果占位符已有内容，可以基于现有内容进行扩展或优化。
+
+正在调用LLM生成内容...
+
+【产出物5.3】LLM生成的内容映射:
+{
+  "slide_0_placeholder_0": "人工智能技术概述",
+  "slide_0_placeholder_1": "人工智能（AI）是计算机科学的重要分支，致力于开发能够模拟人类智能的系统和算法。从1956年达特茅斯会议首次提出AI概念，到如今深度学习的蓬勃发展，AI技术经历了多次浪潮。当前，AI正从感知智能向认知智能迈进，在医疗、金融、制造、交通等各领域产生深远影响。未来，随着算力提升、算法优化和数据积累，AI将在自主决策、人机协同等方面实现更大突破。",
+  "slide_1_placeholder_0": "人工智能核心技术介绍",
+  "slide_1_placeholder_1": "• 机器学习：通过算法让计算机从数据中学习规律，包括监督学习、无监督学习和半监督学习\n• 深度学习：基于神经网络的复杂模式识别技术，在图像识别、语音处理等领域表现卓越\n• 自然语言处理：让机器理解和生成人类语言，涵盖文本分析、机器翻译、情感分析等\n• 计算机视觉：使计算机能够\"看懂\"图像和视频，应用于人脸识别、自动驾驶等场景\n• 强化学习：通过试错机制优化决策过程，在游戏AI、机器人控制等领域取得显著成果\n• 知识图谱：构建结构化知识库，支撑智能问答和推理决策",
+  "slide_2_placeholder_0": "人工智能应用场景与未来展望",
+  "slide_2_placeholder_1": "应用场景：\n• 智能医疗：辅助诊断、药物研发、健康管理\n• 智慧金融：风险控制、智能投顾、反欺诈\n• 智能制造：质量检测、预测维护、生产优化\n• 智能交通：自动驾驶、交通调度、路径规划\n• 智能家居：语音助手、环境控制、安防监控\n\n未来展望：\n• 通用人工智能（AGI）的探索与突破\n• 人机协同的深度融合发展\n• 可信AI与伦理规范的建立\n• 边缘计算与AI的深度融合\n• AI在各行业的普惠化应用"
+}
+
+================================================================================
+阶段6: 填充PPT内容
+================================================================================
+
+输出文件: demo_interpretation_output.pptx
+
+开始填充...
+
+【产出物6】最终生成的PPT文件:
+  文件路径: demo_interpretation_output.pptx
+  文件大小: 31,219 bytes
+
+================================================================================
+解读过程总结
+================================================================================
+
+完整流程：
+1. 初始化解析器 → 加载PPT文件
+2. 提取结构信息 → 获取幻灯片、形状、占位符信息
+3. 提取文本摘要 → 生成LLM可理解的文本描述
+4. 获取占位符映射 → 建立占位符ID到内容的映射关系
+5. LLM生成内容 → 根据框架和用户需求生成内容
+6. 填充PPT → 将生成的内容填充到占位符中
+
+关键产出物：
+- 结构信息 (structure): 完整的PPT结构数据
+- 文本摘要 (text_summary): 用于LLM理解的文本描述
+- 占位符映射 (placeholder_mapping): 占位符ID和类型映射
+- 内容映射 (content_map): LLM生成的内容
+- 最终PPT文件: 填充完成的PPT
+    
+
+✅ 所有产出物已保存到: demo_interpretation_output.json
+✅ 详细日志已保存到: demo_interpretation.log

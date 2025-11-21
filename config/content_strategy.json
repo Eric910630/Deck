@@ -1,0 +1,71 @@
+{
+  "overall_strategy": {
+    "core_theme": "人工智能技术概述",
+    "value_propositions": [],
+    "purpose": "介绍",
+    "target_audience": "管理层",
+    "tone": "中性",
+    "formality_level": "中性",
+    "key_phrases": []
+  },
+  "section_strategies": [
+    {
+      "section_index": 0,
+      "theme": "人工智能技术概述",
+      "core_idea": "人工智能技术概述",
+      "slides": [
+        0
+      ],
+      "argument_types": [],
+      "evidence_points": [],
+      "content_generation_approach": {
+        "emphasis": "核心观点",
+        "evidence_priority": [
+          "论据",
+          "说明"
+        ],
+        "length": "short"
+      }
+    },
+    {
+      "section_index": 1,
+      "theme": "人工智能核心技术介绍",
+      "core_idea": "人工智能核心技术介绍",
+      "slides": [
+        1,
+        2
+      ],
+      "argument_types": [],
+      "evidence_points": [
+        "要点: • 机器学习：通过算法让计算机从数据中学习规律\n• 深度学习：基于神经网络的复杂模式识别技术\n• 自"
+      ],
+      "content_generation_approach": {
+        "emphasis": "核心观点",
+        "evidence_priority": [
+          "论据",
+          "说明"
+        ],
+        "length": "medium"
+      }
+    }
+  ],
+  "expression_strategy": {
+    "language_style": {
+      "formality": "中性",
+      "tone": "中性",
+      "cultural_features": []
+    },
+    "visual_style": {
+      "layout": "4:3",
+      "typography": {
+        "title_font_size": 38,
+        "body_font_size": 14,
+        "font_family": "Segoe UI, 微软雅黑, Arial"
+      },
+      "color_scheme": {
+        "primary": "text_primary",
+        "accent": "primary"
+      }
+    }
+  }
+}

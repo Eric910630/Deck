@@ -1,0 +1,9 @@
+python-pptx>=0.6.21
+loguru>=0.7.0
+webcolors>=1.13
+openai>=1.0.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+playwright>=1.40.0
+

@@ -1,0 +1,2072 @@
+{
+  "file_info": {
+    "path": "Demo文档.docx",
+    "size_bytes": 341754
+  },
+  "layers": {
+    "layer_1_physical": {
+      "name": "物理结构层",
+      "description": "文档的物理结构：段落、表格、章节等",
+      "data": {
+        "total_paragraphs": 61,
+        "total_tables": 1,
+        "total_sections": 1,
+        "paragraphs_by_style": {
+          "Normal": [
+            {
+              "text": "技术产品商业化-文档",
+              "index": 0
+            },
+            {
+              "text": "副标题​：全链路AI赋能解决方案",
+              "index": 1
+            },
+            {
+              "text": "核心价值主张​：降低运营成本40-60% | 提升转化效率20-35% | 加速业务智能化转型",
+              "index": 2
+            },
+            {
+              "text": "",
+              "index": 3
+            },
+            {
+              "text": "25年技术简单回顾",
+              "index": 4
+            },
+            {
+              "text": "1.朋友云做了多少需求、工时、系统",
+              "index": 5
+            },
+            {
+              "text": "2.AI 做了哪些（包括智能体）？业务反馈价值",
+              "index": 6
+            },
+            {
+              "text": "3.数据中心。",
+              "index": 7
+            },
+            {
+              "text": "",
+              "index": 8
+            },
+            {
+              "text": "💎技术产品分析",
+              "index": 9
+            },
+            {
+              "text": "交个朋友这些年的技术沉淀，主要可以以三大系统呈现出来",
+              "index": 10
+            },
+            {
+              "text": "直播零售业务中台 - 朋友云：经过两年发展，已经非常成熟。它能支持直播业务全流程线上操作，实现业财一体化，还把人工智能技术运用到业务流程中，变成了一个智能业务中台。它的客户有直播公司，还有开展品牌店播",
+              "index": 11
+            },
+            {
+              "text": "BefriendsAI - 推动直播电商增长的智能引擎，我把它定位为内容平台或内容营销平台。我们的人工智能平台既可以完全整合到业务系统里，融入业务流程。有些客户不想购买业务系统，但想用人工智能平台，它",
+              "index": 12
+            },
+            {
+              "text": "数据中心平台",
+              "index": 13
+            },
+            {
+              "text": "",
+              "index": 14
+            },
+            {
+              "text": "以上，其核心优势在于它并非一个单点工具，而是一个深度融入直播电商业务全链路的智能解决方案​，这正好契合了当前AI从“技术探索”迈向“产业落地”和“价值验证”的大趋势。下面这个表格概括了对其成功概率的评",
+              "index": 15
+            },
+            {
+              "text": "",
+              "index": 16
+            },
+            {
+              "text": "点击图片可查看完整电子表格",
+              "index": 17
+            },
+            {
+              "text": "",
+              "index": 18
+            },
+            {
+              "text": "🚀市场规模",
+              "index": 19
+            },
+            {
+              "text": "当前直播电商市场已经从一个新兴渠道成长为主流零售力量。核心的市场规模数据如下：",
+              "index": 20
+            },
+            {
+              "text": "",
+              "index": 21
+            },
+            {
+              "text": "点击图片可查看完整电子表格",
+              "index": 22
+            },
+            {
+              "text": " 市场新动向与商业化启示 ",
+              "index": 23
+            },
+            {
+              "text": "除了基本的规模数字，当前市场呈现出的一些关键趋势，对商业化决策或许有更直接的参考价值。",
+              "index": 24
+            },
+            {
+              "text": "市场增速转变​：行业已告别早期年均增速超600%的爆发期，进入年均复合增长率预计在15%-20% 的稳健增长阶段。这意味着“躺赢”时代结束，商业化成功需要依靠提升效率、优化体验、精细化管理来实现。",
+              "index": 25
+            },
+            {
+              "text": "AI技术全面赋能​：AI已深入应用在智能选品、内容生成（AIGC）、数字人直播、智能客服、精准营销等环节，成为提升行业运营效率和用户体验的关键引擎。通过AI工具帮助商家“​提效降本​”，在当前环境下是",
+              "index": 26
+            },
+            {
+              "text": "​“店播”成为主流，供应链深度融合​：品牌自播（店播）日益普及，平台流量政策也向其倾斜。直播间不再仅是销售终端，正通过收集消费反馈，​反向驱动产品设计、柔性生产和供应链优化​，形成“按需生产”的闭环。",
+              "index": 27
+            },
+            {
+              "text": "拓展新市场寻求增量​：在国内市场竞争加剧的背景下，“​出海​”成为许多平台、MCN机构和品牌寻求新增长点的重要方向，特别是东南亚等市场。",
+              "index": 28
+            },
+            {
+              "text": "综合来看，直播电商是一个规模巨大、生态成熟且仍在稳步增长的广阔市场。对于商业化而言，这意味着机会与挑战并存。巨大的存量市场意味着有大量的现有业务可以通过更高效的解决方案进行“优化”和“替代”。同时，行",
+              "index": 29
+            },
+            {
+              "text": "",
+              "index": 30
+            },
+            {
+              "text": "💎 商业化战略路线图 ",
+              "index": 31
+            },
+            {
+              "text": "在当前阶段，​​“聚焦细分市场、善用外部能力、打造极致产品体验” 是核心策略。没有销售团队可以迫使您更专注于产品本身的价值和用户口碑；算法实力不强则可以鼓励您更深入地理解业务本质，寻找技术应用的巧劲。",
+              "index": 32
+            },
+            {
+              "text": "1、确立以“结果”为导向的价值主张与定价模式 ",
+              "index": 33
+            },
+            {
+              "text": "传统的软件销售（SaaS订阅）模式正在被颠覆。你应该勇敢地迈向 ​“按效果付费”（Result as a Service, RaaS）​ 模式。这意味着收费不再基于软件使用权限或调用次数，而是与为客户",
+              "index": 34
+            },
+            {
+              "text": "为何有效​：这极大地降低了高潜力但预算敏感的中小客户的使用门槛，并将自身利益与客户深度绑定，成为“增长合伙人”，从而建立极强的信任关系。",
+              "index": 35
+            },
+            {
+              "text": "如何实施​：初期可提供多种模式组合，如“较低固定费用+业务分成”或“效果对赌协议”，让客户有选择空间，逐步向纯RaaS模式过渡。",
+              "index": 36
+            },
+            {
+              "text": "2、规划清晰的市场进入与客户分层策略 ",
+              "index": 37
+            },
+            {
+              "text": "采用“由上至下，由点及面”的渗透策略。",
+              "index": 38
+            },
+            {
+              "text": "聚焦灯塔客户​：首先集中资源服务于头部直播机构、大型品牌商。它们付费能力强，场景复杂，能充分展示系统价值。成功案例将成为最强的市场宣传，吸引腰部客户。",
+              "index": 39
+            },
+            {
+              "text": "打造行业解决方案​：在验证有效性后，将针对头部客户的定制化方案，沉淀为标准化的行业垂直解决方案​（如美妆、服饰、家电），快速复制到同类客户，降低交付成本。",
+              "index": 40
+            },
+            {
+              "text": "3、设计多元化的定价与模式组合 ",
+              "index": 41
+            },
+            {
+              "text": "针对不同客户的需求和风险偏好，提供灵活的选择。",
+              "index": 42
+            },
+            {
+              "text": "",
+              "index": 43
+            },
+            {
+              "text": "点击图片可查看完整电子表格",
+              "index": 44
+            },
+            {
+              "text": "4、构建持续迭代的技术与数据飞轮 ",
+              "index": 45
+            },
+            {
+              "text": "商业化的成功离不开技术和数据的持续驱动。",
+              "index": 46
+            },
+            {
+              "text": "构建数据飞轮，积累壁垒​：从一开始就要有意识地设计和积累您的专有数据。在垂直领域，高质量、针对性强的专有数据集是构建长期竞争壁垒的关键。随着产品的使用，会不断产生新的数据，这些数据可以用来反馈和优化模",
+              "index": 47
+            },
+            {
+              "text": "拥抱“多智能体”（Multi-Agent）架构​：未来趋势是多个专用智能体（选品Agent、口播稿Agent、复盘Agent）协同工作。然后一个大Agent来调度各个模块Agent，实现直播自动化、智",
+              "index": 48
+            },
+            {
+              "text": "",
+              "index": 49
+            },
+            {
+              "text": "5、销售路径规划",
+              "index": 50
+            },
+            {
+              "text": "链接渠道​：与浙江首席信息官协会、杭州时尚CIO协会等组织合作；请他们帮忙推，给一定的返佣；需要增加市场费预算；",
+              "index": 51
+            },
+            {
+              "text": "建立生态​：与电商平台、ERP软件、数据分析工具等建立合作，通过集成融入更广阔的生态系统，为客户提供一站式解决方案。",
+              "index": 52
+            },
+            {
+              "text": "建立销售团队：建立小规模销售团队，请求集团开放品牌商家资源，销售BD品牌；新增“业务增长顾问”的销售团队，销售团队需要从“软件销售”转变为“业务增长顾问”，具备深厚的行业知识和诊断客户业务痛点的能力。",
+              "index": 53
+            },
+            {
+              "text": "与电商学院合作：电商学院讲课帮忙推Befriends AI，toc客户第二年续费199一年；",
+              "index": 54
+            },
+            {
+              "text": "建立紧密的早期用户反馈圈​：找到一小批（5-10家）愿意尝试新解决方案的“创新者”客户。与他们建立非常紧密的联系，深度沟通他们的使用体验、遇到的困难以及新的想法。他们的反馈是您迭代产品、明确下一步方向",
+              "index": 55
+            },
+            {
+              "text": "",
+              "index": 56
+            },
+            {
+              "text": "6、优化组织能力 ",
+              "index": 57
+            },
+            {
+              "text": "有策略地引入关键人才​：当产品方向和价值得到初步验证后，可以考虑引入第一位关键的技术成员。他/她应是能够在所选垂直领域将算法技术与业务场景深度结合的“全栈型”人才，而不仅仅是追求顶尖的模型专家。同样，",
+              "index": 58
+            },
+            {
+              "text": "",
+              "index": 59
+            },
+            {
+              "text": "",
+              "index": 60
+            }
+          ]
+        },
+        "paragraphs_by_format": {
+          "bold_paragraphs": [
+            {
+              "text": "技术产品商业化-文档",
+              "index": 0
+            },
+            {
+              "text": "25年技术简单回顾",
+              "index": 4
+            },
+            {
+              "text": "💎技术产品分析",
+              "index": 9
+            },
+            {
+              "text": "以上，其核心优势在于它并非一个单点工具，而是一个深度融入直播电商业务全链路的智能解决方案​，这正好契合了当前AI从“技术探索”迈向“产业落地”和“价值验证”的大趋势。下面这个表格概括了对其成功概率的评",
+              "index": 15
+            },
+            {
+              "text": "点击图片可查看完整电子表格",
+              "index": 17
+            },
+            {
+              "text": "🚀市场规模",
+              "index": 19
+            },
+            {
+              "text": "点击图片可查看完整电子表格",
+              "index": 22
+            },
+            {
+              "text": " 市场新动向与商业化启示 ",
+              "index": 23
+            },
+            {
+              "text": "市场增速转变​：行业已告别早期年均增速超600%的爆发期，进入年均复合增长率预计在15%-20% 的稳健增长阶段。这意味着“躺赢”时代结束，商业化成功需要依靠提升效率、优化体验、精细化管理来实现。",
+              "index": 25
+            },
+            {
+              "text": "AI技术全面赋能​：AI已深入应用在智能选品、内容生成（AIGC）、数字人直播、智能客服、精准营销等环节，成为提升行业运营效率和用户体验的关键引擎。通过AI工具帮助商家“​提效降本​”，在当前环境下是",
+              "index": 26
+            },
+            {
+              "text": "​“店播”成为主流，供应链深度融合​：品牌自播（店播）日益普及，平台流量政策也向其倾斜。直播间不再仅是销售终端，正通过收集消费反馈，​反向驱动产品设计、柔性生产和供应链优化​，形成“按需生产”的闭环。",
+              "index": 27
+            },
+            {
+              "text": "拓展新市场寻求增量​：在国内市场竞争加剧的背景下，“​出海​”成为许多平台、MCN机构和品牌寻求新增长点的重要方向，特别是东南亚等市场。",
+              "index": 28
+            },
+            {
+              "text": "综合来看，直播电商是一个规模巨大、生态成熟且仍在稳步增长的广阔市场。对于商业化而言，这意味着机会与挑战并存。巨大的存量市场意味着有大量的现有业务可以通过更高效的解决方案进行“优化”和“替代”。同时，行",
+              "index": 29
+            },
+            {
+              "text": "💎 商业化战略路线图 ",
+              "index": 31
+            },
+            {
+              "text": "1、确立以“结果”为导向的价值主张与定价模式 ",
+              "index": 33
+            },
+            {
+              "text": "传统的软件销售（SaaS订阅）模式正在被颠覆。你应该勇敢地迈向 ​“按效果付费”（Result as a Service, RaaS）​ 模式。这意味着收费不再基于软件使用权限或调用次数，而是与为客户",
+              "index": 34
+            },
+            {
+              "text": "为何有效​：这极大地降低了高潜力但预算敏感的中小客户的使用门槛，并将自身利益与客户深度绑定，成为“增长合伙人”，从而建立极强的信任关系。",
+              "index": 35
+            },
+            {
+              "text": "如何实施​：初期可提供多种模式组合，如“较低固定费用+业务分成”或“效果对赌协议”，让客户有选择空间，逐步向纯RaaS模式过渡。",
+              "index": 36
+            },
+            {
+              "text": "2、规划清晰的市场进入与客户分层策略 ",
+              "index": 37
+            },
+            {
+              "text": "聚焦灯塔客户​：首先集中资源服务于头部直播机构、大型品牌商。它们付费能力强，场景复杂，能充分展示系统价值。成功案例将成为最强的市场宣传，吸引腰部客户。",
+              "index": 39
+            },
+            {
+              "text": "打造行业解决方案​：在验证有效性后，将针对头部客户的定制化方案，沉淀为标准化的行业垂直解决方案​（如美妆、服饰、家电），快速复制到同类客户，降低交付成本。",
+              "index": 40
+            },
+            {
+              "text": "3、设计多元化的定价与模式组合 ",
+              "index": 41
+            },
+            {
+              "text": "点击图片可查看完整电子表格",
+              "index": 44
+            },
+            {
+              "text": "4、构建持续迭代的技术与数据飞轮 ",
+              "index": 45
+            },
+            {
+              "text": "构建数据飞轮，积累壁垒​：从一开始就要有意识地设计和积累您的专有数据。在垂直领域，高质量、针对性强的专有数据集是构建长期竞争壁垒的关键。随着产品的使用，会不断产生新的数据，这些数据可以用来反馈和优化模",
+              "index": 47
+            },
+            {
+              "text": "拥抱“多智能体”（Multi-Agent）架构​：未来趋势是多个专用智能体（选品Agent、口播稿Agent、复盘Agent）协同工作。然后一个大Agent来调度各个模块Agent，实现直播自动化、智",
+              "index": 48
+            },
+            {
+              "text": "5、销售路径规划",
+              "index": 50
+            },
+            {
+              "text": "链接渠道​：与浙江首席信息官协会、杭州时尚CIO协会等组织合作；请他们帮忙推，给一定的返佣；需要增加市场费预算；",
+              "index": 51
+            },
+            {
+              "text": "建立生态​：与电商平台、ERP软件、数据分析工具等建立合作，通过集成融入更广阔的生态系统，为客户提供一站式解决方案。",
+              "index": 52
+            },
+            {
+              "text": "建立销售团队：建立小规模销售团队，请求集团开放品牌商家资源，销售BD品牌；新增“业务增长顾问”的销售团队，销售团队需要从“软件销售”转变为“业务增长顾问”，具备深厚的行业知识和诊断客户业务痛点的能力。",
+              "index": 53
+            },
+            {
+              "text": "与电商学院合作：电商学院讲课帮忙推Befriends AI，toc客户第二年续费199一年；",
+              "index": 54
+            },
+            {
+              "text": "建立紧密的早期用户反馈圈​：找到一小批（5-10家）愿意尝试新解决方案的“创新者”客户。与他们建立非常紧密的联系，深度沟通他们的使用体验、遇到的困难以及新的想法。他们的反馈是您迭代产品、明确下一步方向",
+              "index": 55
+            },
+            {
+              "text": "6、优化组织能力 ",
+              "index": 57
+            },
+            {
+              "text": "有策略地引入关键人才​：当产品方向和价值得到初步验证后，可以考虑引入第一位关键的技术成员。他/她应是能够在所选垂直领域将算法技术与业务场景深度结合的“全栈型”人才，而不仅仅是追求顶尖的模型专家。同样，",
+              "index": 58
+            }
+          ],
+          "large_font_paragraphs": [
+            {
+              "text": "技术产品商业化-文档",
+              "font_size": 26.0,
+              "index": 0
+            }
+          ],
+          "indented_paragraphs": []
+        }
+      }
+    },
+    "layer_2_format": {
+      "name": "格式特征层",
+      "description": "文本格式特征：字体、字号、加粗、颜色、缩进等",
+      "data": {
+        "font_sizes": [
+          14.0,
+          15.0,
+          26.0
+        ],
+        "font_names": [
+          "Arial"
+        ],
+        "bold_runs": [
+          {
+            "text": "技术产品商业化",
+            "font_size": 26.0
+          },
+          {
+            "text": "-",
+            "font_size": 26.0
+          },
+          {
+            "text": "文档",
+            "font_size": 26.0
+          },
+          {
+            "text": "25",
+            "font_size": 15.0
+          },
+          {
+            "text": "年技术简单回顾",
+            "font_size": 15.0
+          },
+          {
+            "text": "💎",
+            "font_size": 15.0
+          },
+          {
+            "text": "技术产品分析",
+            "font_size": 15.0
+          },
+          {
+            "text": "深度融入直播电商业务全链路的智能解决方案",
+            "font_size": null
+          },
+          {
+            "text": "点击图片可查看完整电子表格",
+            "font_size": null
+          },
+          {
+            "text": "🚀",
+            "font_size": 15.0
+          },
+          {
+            "text": "市场规模",
+            "font_size": 15.0
+          },
+          {
+            "text": "点击图片可查看完整电子表格",
+            "font_size": null
+          },
+          {
+            "text": "市场新动向与商业化启示",
+            "font_size": 14.0
+          },
+          {
+            "text": "市场增速转变",
+            "font_size": null
+          },
+          {
+            "text": "15%-20%",
+            "font_size": null
+          },
+          {
+            "text": "提升效率、优化体验、精细化管理",
+            "font_size": null
+          },
+          {
+            "text": "AI",
+            "font_size": null
+          },
+          {
+            "text": "技术全面赋能",
+            "font_size": null
+          },
+          {
+            "text": "智能选品、内容生成（",
+            "font_size": null
+          },
+          {
+            "text": "AIGC",
+            "font_size": null
+          },
+          {
+            "text": "）、数字人直播、智能客服、精准营销",
+            "font_size": null
+          },
+          {
+            "text": "提效降本",
+            "font_size": null
+          },
+          {
+            "text": "​“",
+            "font_size": null
+          },
+          {
+            "text": "店播",
+            "font_size": null
+          },
+          {
+            "text": "”",
+            "font_size": null
+          },
+          {
+            "text": "成为主流，供应链深度融合",
+            "font_size": null
+          },
+          {
+            "text": "反向驱动产品设计、柔性生产和供应链优化",
+            "font_size": null
+          },
+          {
+            "text": "拓展新市场寻求增量",
+            "font_size": null
+          },
+          {
+            "text": "出海",
+            "font_size": null
+          },
+          {
+            "text": "精细化运营、",
+            "font_size": null
+          },
+          {
+            "text": "AI",
+            "font_size": null
+          },
+          {
+            "text": "赋能、供应链整合和全球化布局",
+            "font_size": null
+          },
+          {
+            "text": "💎 ",
+            "font_size": 15.0
+          },
+          {
+            "text": "商业化战略路线图",
+            "font_size": 15.0
+          },
+          {
+            "text": "1",
+            "font_size": 14.0
+          },
+          {
+            "text": "、确立以",
+            "font_size": 14.0
+          },
+          {
+            "text": "“",
+            "font_size": 14.0
+          },
+          {
+            "text": "结果",
+            "font_size": 14.0
+          },
+          {
+            "text": "”",
+            "font_size": 14.0
+          },
+          {
+            "text": "为导向的价值主张与定价模式",
+            "font_size": 14.0
+          },
+          {
+            "text": "​“",
+            "font_size": null
+          },
+          {
+            "text": "按效果付费",
+            "font_size": null
+          },
+          {
+            "text": "”",
+            "font_size": null
+          },
+          {
+            "text": "（",
+            "font_size": null
+          },
+          {
+            "text": "Result as a Service, RaaS",
+            "font_size": null
+          },
+          {
+            "text": "）",
+            "font_size": null
+          },
+          {
+            "text": "​",
+            "font_size": null
+          },
+          {
+            "text": "为何有效",
+            "font_size": null
+          },
+          {
+            "text": "如何实施",
+            "font_size": null
+          },
+          {
+            "text": "2",
+            "font_size": 14.0
+          },
+          {
+            "text": "、规划清晰的市场进入与客户分层策略",
+            "font_size": 14.0
+          },
+          {
+            "text": "聚焦灯塔客户",
+            "font_size": null
+          },
+          {
+            "text": "头部直播机构、大型品牌商",
+            "font_size": null
+          },
+          {
+            "text": "打造行业解决方案",
+            "font_size": null
+          },
+          {
+            "text": "行业垂直解决方案",
+            "font_size": null
+          },
+          {
+            "text": "3",
+            "font_size": 14.0
+          },
+          {
+            "text": "、设计多元化的定价与模式组合",
+            "font_size": 14.0
+          },
+          {
+            "text": "点击图片可查看完整电子表格",
+            "font_size": null
+          },
+          {
+            "text": "4",
+            "font_size": 14.0
+          },
+          {
+            "text": "、构建持续迭代的技术与数据飞轮",
+            "font_size": 14.0
+          },
+          {
+            "text": "构建数据飞轮，积累壁垒",
+            "font_size": null
+          },
+          {
+            "text": "​",
+            "font_size": null
+          },
+          {
+            "text": "拥抱",
+            "font_size": null
+          },
+          {
+            "text": "“",
+            "font_size": null
+          },
+          {
+            "text": "多智能体",
+            "font_size": null
+          },
+          {
+            "text": "”",
+            "font_size": null
+          },
+          {
+            "text": "（",
+            "font_size": null
+          },
+          {
+            "text": "Multi-Agent",
+            "font_size": null
+          },
+          {
+            "text": "）架构",
+            "font_size": null
+          },
+          {
+            "text": "5",
+            "font_size": 14.0
+          },
+          {
+            "text": "、销售路径规划",
+            "font_size": 14.0
+          },
+          {
+            "text": "链接渠道",
+            "font_size": null
+          },
+          {
+            "text": "建立生态",
+            "font_size": null
+          },
+          {
+            "text": "建立销售团队：",
+            "font_size": null
+          },
+          {
+            "text": "与电商学院合作：",
+            "font_size": null
+          },
+          {
+            "text": "建立紧密的早期用户反馈圈",
+            "font_size": null
+          },
+          {
+            "text": "​",
+            "font_size": null
+          },
+          {
+            "text": "：",
+            "font_size": null
+          },
+          {
+            "text": "6",
+            "font_size": 14.0
+          },
+          {
+            "text": "、优化组织能力",
+            "font_size": 14.0
+          },
+          {
+            "text": "有策略地引入关键人才",
+            "font_size": null
+          },
+          {
+            "text": "​",
+            "font_size": null
+          },
+          {
+            "text": "：",
+            "font_size": null
+          }
+        ],
+        "italic_runs": [],
+        "colored_runs": [],
+        "paragraph_formats": [
+          {
+            "text": "技术产品商业化-文档",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 24.0,
+            "space_after": 24.0
+          },
+          {
+            "text": "副标题​：全链路AI赋能解决方案",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "核心价值主张​：降低运营成本40-60% | 提升转化效率20-35% | 加速业务智能化转型",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "25年技术简单回顾",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 15.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "1.朋友云做了多少需求、工时、系统",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "2.AI 做了哪些（包括智能体）？业务反馈价值",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "3.数据中心。",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "💎技术产品分析",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 15.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "交个朋友这些年的技术沉淀，主要可以以三大系统呈现出来",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "直播零售业务中台 - 朋友云：经过两年发展，已经非常成熟。它能支持直播业务全流程线上操作，实现业财一",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "BefriendsAI - 推动直播电商增长的智能引擎，我把它定位为内容平台或内容营销平台。我们的人",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "数据中心平台",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "以上，其核心优势在于它并非一个单点工具，而是一个深度融入直播电商业务全链路的智能解决方案​，这正好契",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "点击图片可查看完整电子表格",
+            "alignment": "CENTER (1)",
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 0,
+            "space_after": 6.0
+          },
+          {
+            "text": "",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "🚀市场规模",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 15.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "当前直播电商市场已经从一个新兴渠道成长为主流零售力量。核心的市场规模数据如下：",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "点击图片可查看完整电子表格",
+            "alignment": "CENTER (1)",
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 0,
+            "space_after": 6.0
+          },
+          {
+            "text": " 市场新动向与商业化启示 ",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 13.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "除了基本的规模数字，当前市场呈现出的一些关键趋势，对商业化决策或许有更直接的参考价值。",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "市场增速转变​：行业已告别早期年均增速超600%的爆发期，进入年均复合增长率预计在15%-20% 的",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "AI技术全面赋能​：AI已深入应用在智能选品、内容生成（AIGC）、数字人直播、智能客服、精准营销等",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "​“店播”成为主流，供应链深度融合​：品牌自播（店播）日益普及，平台流量政策也向其倾斜。直播间不再仅",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "拓展新市场寻求增量​：在国内市场竞争加剧的背景下，“​出海​”成为许多平台、MCN机构和品牌寻求新增",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "综合来看，直播电商是一个规模巨大、生态成熟且仍在稳步增长的广阔市场。对于商业化而言，这意味着机会与挑",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "💎 商业化战略路线图 ",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 15.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "在当前阶段，​​“聚焦细分市场、善用外部能力、打造极致产品体验” 是核心策略。没有销售团队可以迫使您",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "1、确立以“结果”为导向的价值主张与定价模式 ",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 13.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "传统的软件销售（SaaS订阅）模式正在被颠覆。你应该勇敢地迈向 ​“按效果付费”（Result as",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "为何有效​：这极大地降低了高潜力但预算敏感的中小客户的使用门槛，并将自身利益与客户深度绑定，成为“增",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "如何实施​：初期可提供多种模式组合，如“较低固定费用+业务分成”或“效果对赌协议”，让客户有选择空间",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "2、规划清晰的市场进入与客户分层策略 ",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 13.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "采用“由上至下，由点及面”的渗透策略。",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "聚焦灯塔客户​：首先集中资源服务于头部直播机构、大型品牌商。它们付费能力强，场景复杂，能充分展示系统",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "打造行业解决方案​：在验证有效性后，将针对头部客户的定制化方案，沉淀为标准化的行业垂直解决方案​（如",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "3、设计多元化的定价与模式组合 ",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 13.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "针对不同客户的需求和风险偏好，提供灵活的选择。",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "点击图片可查看完整电子表格",
+            "alignment": "CENTER (1)",
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 0,
+            "space_after": 6.0
+          },
+          {
+            "text": "4、构建持续迭代的技术与数据飞轮 ",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 13.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "商业化的成功离不开技术和数据的持续驱动。",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "构建数据飞轮，积累壁垒​：从一开始就要有意识地设计和积累您的专有数据。在垂直领域，高质量、针对性强的",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "拥抱“多智能体”（Multi-Agent）架构​：未来趋势是多个专用智能体（选品Agent、口播稿A",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "5、销售路径规划",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 13.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "链接渠道​：与浙江首席信息官协会、杭州时尚CIO协会等组织合作；请他们帮忙推，给一定的返佣；需要增加",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "建立生态​：与电商平台、ERP软件、数据分析工具等建立合作，通过集成融入更广阔的生态系统，为客户提供",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "建立销售团队：建立小规模销售团队，请求集团开放品牌商家资源，销售BD品牌；新增“业务增长顾问”的销售",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "与电商学院合作：电商学院讲课帮忙推Befriends AI，toc客户第二年续费199一年；",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "建立紧密的早期用户反馈圈​：找到一小批（5-10家）愿意尝试新解决方案的“创新者”客户。与他们建立非",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "6、优化组织能力 ",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 13.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "有策略地引入关键人才​：当产品方向和价值得到初步验证后，可以考虑引入第一位关键的技术成员。他/她应是",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          },
+          {
+            "text": "",
+            "alignment": null,
+            "left_indent": 0,
+            "first_line_indent": 0,
+            "space_before": 6.0,
+            "space_after": 6.0
+          }
+        ]
+      }
+    },
+    "layer_3_semantic": {
+      "name": "内容语义层",
+      "description": "基于内容语义和格式特征识别的标题-内容块结构",
+      "data": {
+        "total_blocks": 18,
+        "blocks": [
+          {
+            "heading": "技术产品商业化-文档",
+            "heading_level": 1,
+            "heading_format": {
+              "font_size": 26.0,
+              "is_bold": true,
+              "has_numbering": false
+            },
+            "content": [
+              {
+                "text": "副标题​：全链路AI赋能解决方案",
+                "font_size": 0,
+                "is_bold": false
+              },
+              {
+                "text": "核心价值主张​：降低运营成本40-60% | 提升转化效率20-35% | 加速业务智能化转型",
+                "font_size": 0,
+                "is_bold": false
+              }
+            ]
+          },
+          {
+            "heading": "25年技术简单回顾",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 15.0,
+              "is_bold": true,
+              "has_numbering": false
+            },
+            "content": []
+          },
+          {
+            "heading": "1.朋友云做了多少需求、工时、系统",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 0,
+              "is_bold": false,
+              "has_numbering": true
+            },
+            "content": []
+          },
+          {
+            "heading": "2.AI 做了哪些（包括智能体）？业务反馈价值",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 0,
+              "is_bold": false,
+              "has_numbering": true
+            },
+            "content": []
+          },
+          {
+            "heading": "3.数据中心。",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 0,
+              "is_bold": false,
+              "has_numbering": true
+            },
+            "content": []
+          },
+          {
+            "heading": "💎技术产品分析",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 15.0,
+              "is_bold": true,
+              "has_numbering": false
+            },
+            "content": [
+              {
+                "text": "交个朋友这些年的技术沉淀，主要可以以三大系统呈现出来",
+                "font_size": 0,
+                "is_bold": false
+              },
+              {
+                "text": "直播零售业务中台 - 朋友云：经过两年发展，已经非常成熟。它能支持直播业务全流程线上操作，实现业财一体化，还把人工智能技术运用到业务流程中，变成了一个智能业务中台。它的客户有直播公司，还有开展品牌店播的公司。",
+                "font_size": 0,
+                "is_bold": false
+              },
+              {
+                "text": "BefriendsAI - 推动直播电商增长的智能引擎，我把它定位为内容平台或内容营销平台。我们的人工智能平台既可以完全整合到业务系统里，融入业务流程。有些客户不想购买业务系统，但想用人工智能平台，它能围绕商品制作主图、预测爆款、智能搭配商品、描绘商品和用户画像、自动生成口播稿，提高内容创作效率。",
+                "font_size": 0,
+                "is_bold": false
+              },
+              {
+                "text": "数据中心平台",
+                "font_size": 0,
+                "is_bold": false
+              },
+              {
+                "text": "以上，其核心优势在于它并非一个单点工具，而是一个深度融入直播电商业务全链路的智能解决方案​，这正好契合了当前AI从“技术探索”迈向“产业落地”和“价值验证”的大趋势。下面这个表格概括了对其成功概率的评估和主要考量点。",
+                "font_size": 0,
+                "is_bold": true
+              }
+            ]
+          },
+          {
+            "heading": "点击图片可查看完整电子表格",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 0,
+              "is_bold": true,
+              "has_numbering": false
+            },
+            "content": []
+          },
+          {
+            "heading": "🚀市场规模",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 15.0,
+              "is_bold": true,
+              "has_numbering": false
+            },
+            "content": [
+              {
+                "text": "当前直播电商市场已经从一个新兴渠道成长为主流零售力量。核心的市场规模数据如下：",
+                "font_size": 0,
+                "is_bold": false
+              }
+            ]
+          },
+          {
+            "heading": "点击图片可查看完整电子表格",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 0,
+              "is_bold": true,
+              "has_numbering": false
+            },
+            "content": []
+          },
+          {
+            "heading": "市场新动向与商业化启示",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 14.0,
+              "is_bold": true,
+              "has_numbering": false
+            },
+            "content": [
+              {
+                "text": "除了基本的规模数字，当前市场呈现出的一些关键趋势，对商业化决策或许有更直接的参考价值。",
+                "font_size": 0,
+                "is_bold": false
+              },
+              {
+                "text": "市场增速转变​：行业已告别早期年均增速超600%的爆发期，进入年均复合增长率预计在15%-20% 的稳健增长阶段。这意味着“躺赢”时代结束，商业化成功需要依靠提升效率、优化体验、精细化管理来实现。",
+                "font_size": 0,
+                "is_bold": true
+              },
+              {
+                "text": "AI技术全面赋能​：AI已深入应用在智能选品、内容生成（AIGC）、数字人直播、智能客服、精准营销等环节，成为提升行业运营效率和用户体验的关键引擎。通过AI工具帮助商家“​提效降本​”，在当前环境下是一个强有力的价值主张。",
+                "font_size": 0,
+                "is_bold": true
+              },
+              {
+                "text": "​“店播”成为主流，供应链深度融合​：品牌自播（店播）日益普及，平台流量政策也向其倾斜。直播间不再仅是销售终端，正通过收集消费反馈，​反向驱动产品设计、柔性生产和供应链优化​，形成“按需生产”的闭环。",
+                "font_size": 0,
+                "is_bold": true
+              },
+              {
+                "text": "拓展新市场寻求增量​：在国内市场竞争加剧的背景下，“​出海​”成为许多平台、MCN机构和品牌寻求新增长点的重要方向，特别是东南亚等市场。",
+                "font_size": 0,
+                "is_bold": true
+              },
+              {
+                "text": "综合来看，直播电商是一个规模巨大、生态成熟且仍在稳步增长的广阔市场。对于商业化而言，这意味着机会与挑战并存。巨大的存量市场意味着有大量的现有业务可以通过更高效的解决方案进行“优化”和“替代”。同时，行业转向精细化运营、AI赋能、供应链整合和全球化布局等新趋势，也为解决行业痛点的新模式、新技术提供了宝贵的机遇窗口。希望这些更具体的市场规模和趋势分析，能帮助你进一步校准对商业化前景的判断。如果你对某个细分领域，例如不同区域的产业带特征或者AI在具体环节的应用深度感兴趣，我们可以继续深入探讨。",
+                "font_size": 0,
+                "is_bold": true
+              }
+            ]
+          },
+          {
+            "heading": "💎 商业化战略路线图",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 15.0,
+              "is_bold": true,
+              "has_numbering": false
+            },
+            "content": [
+              {
+                "text": "在当前阶段，​​“聚焦细分市场、善用外部能力、打造极致产品体验” 是核心策略。没有销售团队可以迫使您更专注于产品本身的价值和用户口碑；算法实力不强则可以鼓励您更深入地理解业务本质，寻找技术应用的巧劲。高成功概率需要清晰的商业化路径来兑现：",
+                "font_size": 0,
+                "is_bold": false
+              }
+            ]
+          },
+          {
+            "heading": "1、确立以“结果”为导向的价值主张与定价模式",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 14.0,
+              "is_bold": true,
+              "has_numbering": true
+            },
+            "content": [
+              {
+                "text": "传统的软件销售（SaaS订阅）模式正在被颠覆。你应该勇敢地迈向 ​“按效果付费”（Result as a Service, RaaS）​ 模式。这意味着收费不再基于软件使用权限或调用次数，而是与为客户创造的可量化业务结果（如GMV提升比例、客服效率提升、成本节约金额）挂钩。",
+                "font_size": 0,
+                "is_bold": true
+              },
+              {
+                "text": "为何有效​：这极大地降低了高潜力但预算敏感的中小客户的使用门槛，并将自身利益与客户深度绑定，成为“增长合伙人”，从而建立极强的信任关系。",
+                "font_size": 0,
+                "is_bold": true
+              },
+              {
+                "text": "如何实施​：初期可提供多种模式组合，如“较低固定费用+业务分成”或“效果对赌协议”，让客户有选择空间，逐步向纯RaaS模式过渡。",
+                "font_size": 0,
+                "is_bold": true
+              }
+            ]
+          },
+          {
+            "heading": "2、规划清晰的市场进入与客户分层策略",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 14.0,
+              "is_bold": true,
+              "has_numbering": true
+            },
+            "content": [
+              {
+                "text": "采用“由上至下，由点及面”的渗透策略。",
+                "font_size": 0,
+                "is_bold": false
+              },
+              {
+                "text": "聚焦灯塔客户​：首先集中资源服务于头部直播机构、大型品牌商。它们付费能力强，场景复杂，能充分展示系统价值。成功案例将成为最强的市场宣传，吸引腰部客户。",
+                "font_size": 0,
+                "is_bold": true
+              },
+              {
+                "text": "打造行业解决方案​：在验证有效性后，将针对头部客户的定制化方案，沉淀为标准化的行业垂直解决方案​（如美妆、服饰、家电），快速复制到同类客户，降低交付成本。",
+                "font_size": 0,
+                "is_bold": true
+              }
+            ]
+          },
+          {
+            "heading": "3、设计多元化的定价与模式组合",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 14.0,
+              "is_bold": true,
+              "has_numbering": true
+            },
+            "content": [
+              {
+                "text": "针对不同客户的需求和风险偏好，提供灵活的选择。",
+                "font_size": 0,
+                "is_bold": false
+              }
+            ]
+          },
+          {
+            "heading": "点击图片可查看完整电子表格",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 0,
+              "is_bold": true,
+              "has_numbering": false
+            },
+            "content": []
+          },
+          {
+            "heading": "4、构建持续迭代的技术与数据飞轮",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 14.0,
+              "is_bold": true,
+              "has_numbering": true
+            },
+            "content": [
+              {
+                "text": "商业化的成功离不开技术和数据的持续驱动。",
+                "font_size": 0,
+                "is_bold": false
+              },
+              {
+                "text": "构建数据飞轮，积累壁垒​：从一开始就要有意识地设计和积累您的专有数据。在垂直领域，高质量、针对性强的专有数据集是构建长期竞争壁垒的关键。随着产品的使用，会不断产生新的数据，这些数据可以用来反馈和优化模型，形成“数据飞轮”效应，让产品越用越聪明。",
+                "font_size": 0,
+                "is_bold": true
+              },
+              {
+                "text": "拥抱“多智能体”（Multi-Agent）架构​：未来趋势是多个专用智能体（选品Agent、口播稿Agent、复盘Agent）协同工作。然后一个大Agent来调度各个模块Agent，实现直播自动化、智能化；让系统从“多功能工具”演进为“AI团队”，提供更强大的自动化能力。",
+                "font_size": 0,
+                "is_bold": true
+              }
+            ]
+          },
+          {
+            "heading": "5、销售路径规划",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 14.0,
+              "is_bold": true,
+              "has_numbering": true
+            },
+            "content": [
+              {
+                "text": "链接渠道​：与浙江首席信息官协会、杭州时尚CIO协会等组织合作；请他们帮忙推，给一定的返佣；需要增加市场费预算；",
+                "font_size": 0,
+                "is_bold": true
+              },
+              {
+                "text": "建立生态​：与电商平台、ERP软件、数据分析工具等建立合作，通过集成融入更广阔的生态系统，为客户提供一站式解决方案。",
+                "font_size": 0,
+                "is_bold": true
+              },
+              {
+                "text": "建立销售团队：建立小规模销售团队，请求集团开放品牌商家资源，销售BD品牌；新增“业务增长顾问”的销售团队，销售团队需要从“软件销售”转变为“业务增长顾问”，具备深厚的行业知识和诊断客户业务痛点的能力。",
+                "font_size": 0,
+                "is_bold": true
+              },
+              {
+                "text": "与电商学院合作：电商学院讲课帮忙推Befriends AI，toc客户第二年续费199一年；",
+                "font_size": 0,
+                "is_bold": true
+              },
+              {
+                "text": "建立紧密的早期用户反馈圈​：找到一小批（5-10家）愿意尝试新解决方案的“创新者”客户。与他们建立非常紧密的联系，深度沟通他们的使用体验、遇到的困难以及新的想法。他们的反馈是您迭代产品、明确下一步方向的最宝贵资源。这个阶段，创始人或产品负责人直接与用户沟通，其效果往往胜过一支不成熟的销售团队。",
+                "font_size": 0,
+                "is_bold": true
+              }
+            ]
+          },
+          {
+            "heading": "6、优化组织能力",
+            "heading_level": 3,
+            "heading_format": {
+              "font_size": 14.0,
+              "is_bold": true,
+              "has_numbering": true
+            },
+            "content": [
+              {
+                "text": "有策略地引入关键人才​：当产品方向和价值得到初步验证后，可以考虑引入第一位关键的技术成员。他/她应是能够在所选垂直领域将算法技术与业务场景深度结合的“全栈型”人才，而不仅仅是追求顶尖的模型专家。同样，第一位面向客户的成员，其核心能力应是深刻理解产品价值并能将其清晰地传递给目标客户，而非传统的销售关系维护。",
+                "font_size": 0,
+                "is_bold": true
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "layer_4_lists": {
+      "name": "列表结构层",
+      "description": "文档中的列表结构：编号列表、项目符号、缩进列表",
+      "data": {
+        "numbered_lists": [
+          {
+            "number": "朋友云做了多少需求、工时、系统",
+            "content": "1.朋友云做了多少需求、工时、系统",
+            "full_text": "1.朋友云做了多少需求、工时、系统"
+          },
+          {
+            "number": "AI 做了哪些（包括智能体）？业务反馈价值",
+            "content": "2.AI 做了哪些（包括智能体）？业务反馈价值",
+            "full_text": "2.AI 做了哪些（包括智能体）？业务反馈价值"
+          },
+          {
+            "number": "数据中心。",
+            "content": "3.数据中心。",
+            "full_text": "3.数据中心。"
+          },
+          {
+            "number": "确立以“结果”为导向的价值主张与定价模式",
+            "content": "1、确立以“结果”为导向的价值主张与定价模式",
+            "full_text": "1、确立以“结果”为导向的价值主张与定价模式"
+          },
+          {
+            "number": "规划清晰的市场进入与客户分层策略",
+            "content": "2、规划清晰的市场进入与客户分层策略",
+            "full_text": "2、规划清晰的市场进入与客户分层策略"
+          },
+          {
+            "number": "设计多元化的定价与模式组合",
+            "content": "3、设计多元化的定价与模式组合",
+            "full_text": "3、设计多元化的定价与模式组合"
+          },
+          {
+            "number": "构建持续迭代的技术与数据飞轮",
+            "content": "4、构建持续迭代的技术与数据飞轮",
+            "full_text": "4、构建持续迭代的技术与数据飞轮"
+          },
+          {
+            "number": "销售路径规划",
+            "content": "5、销售路径规划",
+            "full_text": "5、销售路径规划"
+          },
+          {
+            "number": "优化组织能力",
+            "content": "6、优化组织能力",
+            "full_text": "6、优化组织能力"
+          }
+        ],
+        "bullet_lists": [],
+        "indented_items": []
+      }
+    },
+    "layer_5_tables": {
+      "name": "表格数据层",
+      "description": "文档中的表格结构和数据",
+      "data": [
+        {
+          "index": 0,
+          "rows": 9,
+          "columns": 3,
+          "structure": [
+            [
+              "路径类别",
+              "销售方式",
+              "说明"
+            ],
+            [
+              "内部",
+              "内部结算",
+              "业务部门、中后台部门需求按成本价800/人天做内部结算"
+            ],
+            [
+              "内部",
+              "共同运营AI直播间",
+              "和业务部门共创AI直播间，利润分成"
+            ],
+            [
+              "内部",
+              "与电商学院合作",
+              "电商学院讲课帮忙推Befriends AI，toc客户第一年课程送工具，第二年续费199一年；"
+            ],
+            [
+              "外部",
+              "渠道合作",
+              "与浙江首席信息官协会、杭州时尚CIO协会等组织合作；请他们帮忙推，给一定的返佣；需要增加市场费预算；"
+            ],
+            [
+              "外部",
+              "建立生态",
+              "与电商平台、ERP软件、数据分析工具等建立合作，通过集成融入更广阔的生态系统，为客户提供一站式解决方案。"
+            ],
+            [
+              "外部",
+              "建立直销团队",
+              "建立小规模销售团队，请求集团开放品牌商家资源，销售BD品牌；新增“业务增长顾问”的销售团队，销售团队需要从“软件销售”转变为“业务增长顾问”，具备深厚的行业知识和诊断客户业务痛点的能力。"
+            ],
+            [
+              "外部",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ]
+          ],
+          "header_row": [
+            "路径类别",
+            "销售方式",
+            "说明"
+          ],
+          "data_rows": [
+            {
+              "row_index": 1,
+              "data": [
+                "内部",
+                "内部结算",
+                "业务部门、中后台部门需求按成本价800/人天做内部结算"
+              ]
+            },
+            {
+              "row_index": 2,
+              "data": [
+                "内部",
+                "共同运营AI直播间",
+                "和业务部门共创AI直播间，利润分成"
+              ]
+            },
+            {
+              "row_index": 3,
+              "data": [
+                "内部",
+                "与电商学院合作",
+                "电商学院讲课帮忙推Befriends AI，toc客户第一年课程送工具，第二年续费199一年；"
+              ]
+            },
+            {
+              "row_index": 4,
+              "data": [
+                "外部",
+                "渠道合作",
+                "与浙江首席信息官协会、杭州时尚CIO协会等组织合作；请他们帮忙推，给一定的返佣；需要增加市场费预算；"
+              ]
+            },
+            {
+              "row_index": 5,
+              "data": [
+                "外部",
+                "建立生态",
+                "与电商平台、ERP软件、数据分析工具等建立合作，通过集成融入更广阔的生态系统，为客户提供一站式解决方案。"
+              ]
+            },
+            {
+              "row_index": 6,
+              "data": [
+                "外部",
+                "建立直销团队",
+                "建立小规模销售团队，请求集团开放品牌商家资源，销售BD品牌；新增“业务增长顾问”的销售团队，销售团队需要从“软件销售”转变为“业务增长顾问”，具备深厚的行业知识和诊断客户业务痛点的能力。"
+              ]
+            },
+            {
+              "row_index": 7,
+              "data": [
+                "外部",
+                "",
+                ""
+              ]
+            },
+            {
+              "row_index": 8,
+              "data": [
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "layer_6_topics": {
+      "name": "主题/话题层",
+      "description": "基于关键词识别的内容主题分类",
+      "data": {
+        "业务相关": [
+          {
+            "heading": "技术产品商业化-文档",
+            "content_preview": [
+              "副标题​：全链路AI赋能解决方案",
+              "核心价值主张​：降低运营成本40-60% | 提升转化效率20-35% | 加速业务智能化转型"
+            ]
+          },
+          {
+            "heading": "2.AI 做了哪些（包括智能体）？业务反馈价值",
+            "content_preview": []
+          },
+          {
+            "heading": "💎技术产品分析",
+            "content_preview": [
+              "交个朋友这些年的技术沉淀，主要可以以三大系统呈现出来",
+              "直播零售业务中台 - 朋友云：经过两年发展，已经非常成熟。它能支持直播业务全流程线上操作，实现业财一"
+            ]
+          },
+          {
+            "heading": "🚀市场规模",
+            "content_preview": [
+              "当前直播电商市场已经从一个新兴渠道成长为主流零售力量。核心的市场规模数据如下："
+            ]
+          },
+          {
+            "heading": "市场新动向与商业化启示",
+            "content_preview": [
+              "除了基本的规模数字，当前市场呈现出的一些关键趋势，对商业化决策或许有更直接的参考价值。",
+              "市场增速转变​：行业已告别早期年均增速超600%的爆发期，进入年均复合增长率预计在15%-20% 的"
+            ]
+          },
+          {
+            "heading": "💎 商业化战略路线图",
+            "content_preview": [
+              "在当前阶段，​​“聚焦细分市场、善用外部能力、打造极致产品体验” 是核心策略。没有销售团队可以迫使您"
+            ]
+          },
+          {
+            "heading": "1、确立以“结果”为导向的价值主张与定价模式",
+            "content_preview": [
+              "传统的软件销售（SaaS订阅）模式正在被颠覆。你应该勇敢地迈向 ​“按效果付费”（Result as",
+              "为何有效​：这极大地降低了高潜力但预算敏感的中小客户的使用门槛，并将自身利益与客户深度绑定，成为“增"
+            ]
+          },
+          {
+            "heading": "2、规划清晰的市场进入与客户分层策略",
+            "content_preview": [
+              "采用“由上至下，由点及面”的渗透策略。",
+              "聚焦灯塔客户​：首先集中资源服务于头部直播机构、大型品牌商。它们付费能力强，场景复杂，能充分展示系统"
+            ]
+          },
+          {
+            "heading": "3、设计多元化的定价与模式组合",
+            "content_preview": [
+              "针对不同客户的需求和风险偏好，提供灵活的选择。"
+            ]
+          },
+          {
+            "heading": "4、构建持续迭代的技术与数据飞轮",
+            "content_preview": [
+              "商业化的成功离不开技术和数据的持续驱动。",
+              "构建数据飞轮，积累壁垒​：从一开始就要有意识地设计和积累您的专有数据。在垂直领域，高质量、针对性强的"
+            ]
+          },
+          {
+            "heading": "5、销售路径规划",
+            "content_preview": [
+              "链接渠道​：与浙江首席信息官协会、杭州时尚CIO协会等组织合作；请他们帮忙推，给一定的返佣；需要增加",
+              "建立生态​：与电商平台、ERP软件、数据分析工具等建立合作，通过集成融入更广阔的生态系统，为客户提供"
+            ]
+          },
+          {
+            "heading": "6、优化组织能力",
+            "content_preview": [
+              "有策略地引入关键人才​：当产品方向和价值得到初步验证后，可以考虑引入第一位关键的技术成员。他/她应是"
+            ]
+          }
+        ],
+        "技术相关": [
+          {
+            "heading": "25年技术简单回顾",
+            "content_preview": []
+          },
+          {
+            "heading": "1.朋友云做了多少需求、工时、系统",
+            "content_preview": []
+          }
+        ],
+        "数据相关": [
+          {
+            "heading": "3.数据中心。",
+            "content_preview": []
+          }
+        ]
+      }
+    },
+    "layer_7_logic": {
+      "name": "逻辑关系层",
+      "description": "内容之间的逻辑关系：顺序、层级、对比等",
+      "data": {
+        "sequential": [
+          {
+            "from": "技术产品商业化-文档",
+            "to": "25年技术简单回顾"
+          },
+          {
+            "from": "25年技术简单回顾",
+            "to": "1.朋友云做了多少需求、工时、系统"
+          },
+          {
+            "from": "1.朋友云做了多少需求、工时、系统",
+            "to": "2.AI 做了哪些（包括智能体）？业务反馈价值"
+          },
+          {
+            "from": "2.AI 做了哪些（包括智能体）？业务反馈价值",
+            "to": "3.数据中心。"
+          },
+          {
+            "from": "3.数据中心。",
+            "to": "💎技术产品分析"
+          },
+          {
+            "from": "💎技术产品分析",
+            "to": "点击图片可查看完整电子表格"
+          },
+          {
+            "from": "点击图片可查看完整电子表格",
+            "to": "🚀市场规模"
+          },
+          {
+            "from": "🚀市场规模",
+            "to": "点击图片可查看完整电子表格"
+          },
+          {
+            "from": "点击图片可查看完整电子表格",
+            "to": "市场新动向与商业化启示"
+          },
+          {
+            "from": "市场新动向与商业化启示",
+            "to": "💎 商业化战略路线图"
+          },
+          {
+            "from": "💎 商业化战略路线图",
+            "to": "1、确立以“结果”为导向的价值主张与定价模式"
+          },
+          {
+            "from": "1、确立以“结果”为导向的价值主张与定价模式",
+            "to": "2、规划清晰的市场进入与客户分层策略"
+          },
+          {
+            "from": "2、规划清晰的市场进入与客户分层策略",
+            "to": "3、设计多元化的定价与模式组合"
+          },
+          {
+            "from": "3、设计多元化的定价与模式组合",
+            "to": "点击图片可查看完整电子表格"
+          },
+          {
+            "from": "点击图片可查看完整电子表格",
+            "to": "4、构建持续迭代的技术与数据飞轮"
+          },
+          {
+            "from": "4、构建持续迭代的技术与数据飞轮",
+            "to": "5、销售路径规划"
+          },
+          {
+            "from": "5、销售路径规划",
+            "to": "6、优化组织能力"
+          }
+        ],
+        "hierarchical": [
+          {
+            "heading": "技术产品商业化-文档",
+            "level": 1,
+            "sub_items": 2
+          },
+          {
+            "heading": "25年技术简单回顾",
+            "level": 3,
+            "sub_items": 0
+          },
+          {
+            "heading": "1.朋友云做了多少需求、工时、系统",
+            "level": 3,
+            "sub_items": 0
+          },
+          {
+            "heading": "2.AI 做了哪些（包括智能体）？业务反馈价值",
+            "level": 3,
+            "sub_items": 0
+          },
+          {
+            "heading": "3.数据中心。",
+            "level": 3,
+            "sub_items": 0
+          },
+          {
+            "heading": "💎技术产品分析",
+            "level": 3,
+            "sub_items": 5
+          },
+          {
+            "heading": "点击图片可查看完整电子表格",
+            "level": 3,
+            "sub_items": 0
+          },
+          {
+            "heading": "🚀市场规模",
+            "level": 3,
+            "sub_items": 1
+          },
+          {
+            "heading": "点击图片可查看完整电子表格",
+            "level": 3,
+            "sub_items": 0
+          },
+          {
+            "heading": "市场新动向与商业化启示",
+            "level": 3,
+            "sub_items": 6
+          },
+          {
+            "heading": "💎 商业化战略路线图",
+            "level": 3,
+            "sub_items": 1
+          },
+          {
+            "heading": "1、确立以“结果”为导向的价值主张与定价模式",
+            "level": 3,
+            "sub_items": 3
+          },
+          {
+            "heading": "2、规划清晰的市场进入与客户分层策略",
+            "level": 3,
+            "sub_items": 3
+          },
+          {
+            "heading": "3、设计多元化的定价与模式组合",
+            "level": 3,
+            "sub_items": 1
+          },
+          {
+            "heading": "点击图片可查看完整电子表格",
+            "level": 3,
+            "sub_items": 0
+          },
+          {
+            "heading": "4、构建持续迭代的技术与数据飞轮",
+            "level": 3,
+            "sub_items": 3
+          },
+          {
+            "heading": "5、销售路径规划",
+            "level": 3,
+            "sub_items": 5
+          },
+          {
+            "heading": "6、优化组织能力",
+            "level": 3,
+            "sub_items": 1
+          }
+        ],
+        "comparative": [
+          {
+            "type": "table_comparison",
+            "table_index": 0,
+            "comparison_dimensions": [
+              "路径类别",
+              "销售方式",
+              "说明"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "vml_plan": [
+    {
+      "vml_code": "<Slide padding=\"1.5cm\" background=\"#f0f0f0\"><VStack align=\"center\" gap=\"1cm\"><TextBox style=\"title\" ref=\"title\" align=\"center\" /><TextBox style=\"subtitle\" ref=\"subtitle\" align=\"center\" /></VStack></Slide>"
+    },
+    {
+      "vml_code": "<Slide padding=\"1.5cm\"><VStack gap=\"1.2cm\"><TextBox style=\"title\" ref=\"page_title\" /><TextBox style=\"body\" ref=\"content_1\" /></VStack></Slide>"
+    },
+    {
+      "vml_code": "<Slide padding=\"1.5cm\"><VStack gap=\"1.2cm\"><TextBox style=\"title\" ref=\"chart_title\" /><ImageBox ref=\"chart_1\" width=\"80%\" height=\"60%\" /></VStack></Slide>"
+    }
+  ],
+  "content_map": {
+    "title": "我的演示文稿",
+    "subtitle": "基于VML架构的PPT生成工具",
+    "page_title": "第一页：介绍",
+    "content_1": "这是一个示例内容页。\n\n你可以在这里添加任何文本内容。\n\n支持多行文本。",
+    "chart_title": "数据可视化"
+  },
+  "chart_insights": [
+    {
+      "insightId": "chart_1",
+      "type": "bar_chart",
+      "title": "销售数据示例",
+      "data": [
+        {"月份": "1月", "销售额": 1000},
+        {"月份": "2月", "销售额": 1500},
+        {"月份": "3月", "销售额": 1200},
+        {"月份": "4月", "销售额": 1800}
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,26 @@
+{
+  "vml_plan": [
+    {
+      "vml_code": "<Slide padding=\"1.2cm\" background=\"#ffffff\">\n  <VStack gap=\"1.2cm\" align=\"center\">\n    <TextBox style=\"title\" ref=\"title\" align=\"center\" color=\"rgba(0,0,0,0.85)\" />\n    <TextBox style=\"subtitle\" ref=\"subtitle\" align=\"center\" color=\"rgba(0,0,0,0.65)\" />\n    <VStack gap=\"0.8cm\" align=\"left\" background=\"#f0f2f5\" padding=\"0.8cm\" borderRadius=\"6px\" border=\"1px solid #d9d9d9\" shadow=\"0 2px 8px rgba(0,0,0,0.15)\">\n      <TextBox style=\"body\" ref=\"intro_1\" align=\"left\" color=\"rgba(0,0,0,0.85)\" />\n      <TextBox style=\"body\" ref=\"intro_2\" align=\"left\" color=\"rgba(0,0,0,0.85)\" />\n    </VStack>\n  </VStack>\n</Slide>"
+    },
+    {
+      "vml_code": "<Slide padding=\"1.2cm\" background=\"#ffffff\">\n  <VStack gap=\"1.2cm\" align=\"center\">\n    <TextBox style=\"title\" ref=\"app_title\" align=\"center\" color=\"rgba(0,0,0,0.85)\" />\n    <HStack gap=\"0.8cm\" align=\"top\">\n      <VStack gap=\"0.8cm\" align=\"left\" background=\"#f0f2f5\" padding=\"0.8cm\" borderRadius=\"6px\" border=\"1px solid #d9d9d9\" shadow=\"0 2px 8px rgba(0,0,0,0.15)\" width=\"45%\">\n        <TextBox style=\"body\" ref=\"app_1\" align=\"left\" color=\"rgba(0,0,0,0.85)\" />\n      </VStack>\n      <VStack gap=\"0.8cm\" align=\"left\" background=\"#f0f2f5\" padding=\"0.8cm\" borderRadius=\"6px\" border=\"1px solid #d9d9d9\" shadow=\"0 2px 8px rgba(0,0,0,0.15)\" width=\"45%\">\n        <TextBox style=\"body\" ref=\"app_2\" align=\"left\" color=\"rgba(0,0,0,0.85)\" />\n      </VStack>\n    </HStack>\n  </VStack>\n</Slide>"
+    },
+    {
+      "vml_code": "<Slide padding=\"1.2cm\" background=\"#ffffff\">\n  <VStack gap=\"1.2cm\" align=\"center\">\n    <TextBox style=\"title\" ref=\"future_title\" align=\"center\" color=\"rgba(0,0,0,0.85)\" />\n    <VStack gap=\"0.8cm\" align=\"left\" background=\"#f0f2f5\" padding=\"0.8cm\" borderRadius=\"6px\" border=\"1px solid #d9d9d9\" shadow=\"0 2px 8px rgba(0,0,0,0.15)\">\n      <TextBox style=\"body\" ref=\"future_1\" align=\"left\" color=\"rgba(0,0,0,0.85)\" />\n      <TextBox style=\"body\" ref=\"future_2\" align=\"left\" color=\"rgba(0,0,0,0.85)\" />\n    </VStack>\n  </VStack>\n</Slide>"
+    }
+  ],
+  "content_map": {
+    "title": "人工智能技术概述",
+    "subtitle": "探索AI的定义、发展历程与核心技术",
+    "intro_1": "人工智能（AI）是模拟人类智能的计算机系统，涵盖机器学习、自然语言处理等领域。",
+    "intro_2": "自20世纪50年代诞生以来，AI经历了多次发展浪潮，现已成为推动数字化转型的关键技术。",
+    "app_title": "人工智能应用场景",
+    "app_1": "在医疗领域，AI用于疾病诊断、药物研发和个性化治疗，提高医疗效率和准确性。",
+    "app_2": "在金融行业，AI应用于风险评估、欺诈检测和智能投顾，优化金融服务流程。",
+    "future_title": "人工智能未来展望",
+    "future_1": "未来AI将更注重伦理与可解释性，推动人机协作和自主决策系统的发展。",
+    "future_2": "随着技术进步，AI有望在气候变化、教育等领域发挥更大作用，创造可持续的未来。"
+  },
+  "chart_insights": []
+}

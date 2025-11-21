@@ -1,0 +1,117 @@
+{
+  "layer_1_overall_understanding": {
+    "name": "通读理解层",
+    "description": "理解文档的整体思想、主题、目的和核心价值主张",
+    "data": {
+      "core_theme": "人工智能技术概述",
+      "value_propositions": [],
+      "purpose": "介绍",
+      "target_audience": "管理层",
+      "total_slides": 3,
+      "text_length": 189,
+      "key_phrases": []
+    }
+  },
+  "layer_2_sections": {
+    "name": "板块结构层",
+    "description": "识别各个板块及其传递的核心思想",
+    "data": {
+      "total_sections": 2,
+      "sections": [
+        {
+          "section_index": 0,
+          "theme": "人工智能技术概述",
+          "core_idea": "人工智能技术概述",
+          "slides": [
+            0
+          ],
+          "content_summary": "人工智能技术概述 | 探索AI技术的核心原理、发展历程与未来趋势"
+        },
+        {
+          "section_index": 1,
+          "theme": "人工智能核心技术介绍",
+          "core_idea": "人工智能核心技术介绍",
+          "slides": [
+            1,
+            2
+          ],
+          "content_summary": "人工智能核心技术介绍 | • 机器学习：通过算法让计算机从数据中学习规律\n• 深度学习：基于神经网络的复杂模式识别技术\n• 自然语言处理：让机器理解和生成人类语言\n• 计算机视觉：使计算机能够\"看懂\"图像和视频\n• 强化学习：通过试错机制优化决策过程 [自定义标题] | [自定义内容占位符]\n\n可以在这里添加更多内容..."
+        }
+      ]
+    }
+  },
+  "layer_3_arguments": {
+    "name": "论证逻辑层",
+    "description": "识别每个板块的论据和论证方式",
+    "data": {
+      "total_sections_with_arguments": 2,
+      "arguments": [
+        {
+          "section_index": 0,
+          "section_theme": "人工智能技术概述",
+          "argument_types": [],
+          "evidence_points": []
+        },
+        {
+          "section_index": 1,
+          "section_theme": "人工智能核心技术介绍",
+          "argument_types": [],
+          "evidence_points": [
+            "要点: • 机器学习：通过算法让计算机从数据中学习规律\n• 深度学习：基于神经网络的复杂模式识别技术\n• 自"
+          ]
+        }
+      ]
+    }
+  },
+  "layer_4_supporting_materials": {
+    "name": "支撑材料层",
+    "description": "数据、图表、案例等佐证材料",
+    "data": {
+      "total_data_points": 0,
+      "total_cases": 0,
+      "materials": {
+        "data_points": [],
+        "charts": [],
+        "tables": [],
+        "cases": [],
+        "quotes": []
+      }
+    }
+  },
+  "layer_5_expression_style": {
+    "name": "表达风格层",
+    "description": "语言风格、表达方式、文化特征",
+    "data": {
+      "formality_level": "中性",
+      "tone": "中性",
+      "cultural_features": [],
+      "use_of_numbers": 0,
+      "use_of_emojis": 0
+    }
+  },
+  "layer_6_presentation_form": {
+    "name": "呈现形式层",
+    "description": "格式、布局、视觉呈现方式",
+    "data": {
+      "layout_style": {
+        "aspect_ratio": "4:3",
+        "width_cm": 25.4,
+        "height_cm": 19.05
+      },
+      "typography": {
+        "font_sizes": [],
+        "font_names": [],
+        "bold_usage_count": 0
+      },
+      "visual_hierarchy": {
+        "title_levels": 0,
+        "body_levels": 0,
+        "emphasis_count": 0
+      },
+      "color_usage": {
+        "unique_colors": 0,
+        "colors": []
+      }
+    }
+  }
+}

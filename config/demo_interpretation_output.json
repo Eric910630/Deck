@@ -1,0 +1,235 @@
+{
+  "input_file": "demo_filled.pptx",
+  "stage_2_structure": {
+    "slides": [
+      {
+        "slide_index": 0,
+        "layout_name": "Title Slide",
+        "shapes": [
+          {
+            "type": "placeholder",
+            "shape_id": 2,
+            "left": 1.905,
+            "top": 5.917847222222222,
+            "width": 21.59,
+            "height": 4.083402777777778,
+            "is_placeholder": true,
+            "placeholder_id": 0,
+            "placeholder_type": "CENTER_TITLE (3)",
+            "text": "人工智能技术概述",
+            "has_text": true
+          },
+          {
+            "type": "placeholder",
+            "shape_id": 3,
+            "left": 3.81,
+            "top": 10.795,
+            "width": 17.78,
+            "height": 4.868333333333333,
+            "is_placeholder": true,
+            "placeholder_id": 1,
+            "placeholder_type": "SUBTITLE (4)",
+            "text": "探索AI技术的核心原理、发展历程与未来趋势",
+            "has_text": true
+          }
+        ],
+        "placeholders": [
+          {
+            "type": "placeholder",
+            "shape_id": 2,
+            "left": 1.905,
+            "top": 5.917847222222222,
+            "width": 21.59,
+            "height": 4.083402777777778,
+            "is_placeholder": true,
+            "placeholder_id": 0,
+            "placeholder_type": "CENTER_TITLE (3)",
+            "text": "人工智能技术概述",
+            "has_text": true
+          },
+          {
+            "type": "placeholder",
+            "shape_id": 3,
+            "left": 3.81,
+            "top": 10.795,
+            "width": 17.78,
+            "height": 4.868333333333333,
+            "is_placeholder": true,
+            "placeholder_id": 1,
+            "placeholder_type": "SUBTITLE (4)",
+            "text": "探索AI技术的核心原理、发展历程与未来趋势",
+            "has_text": true
+          }
+        ],
+        "text_content": [
+          {
+            "type": "placeholder",
+            "text": "人工智能技术概述",
+            "placeholder_id": 0
+          },
+          {
+            "type": "placeholder",
+            "text": "探索AI技术的核心原理、发展历程与未来趋势",
+            "placeholder_id": 1
+          }
+        ]
+      },
+      {
+        "slide_index": 1,
+        "layout_name": "Title and Content",
+        "shapes": [
+          {
+            "type": "placeholder",
+            "shape_id": 2,
+            "left": 1.27,
+            "top": 0.7628833333333334,
+            "width": 22.86,
+            "height": 3.175,
+            "is_placeholder": true,
+            "placeholder_id": 0,
+            "placeholder_type": "TITLE (1)",
+            "text": "人工智能核心技术介绍",
+            "has_text": true
+          },
+          {
+            "type": "placeholder",
+            "shape_id": 3,
+            "left": 1.27,
+            "top": 4.445,
+            "width": 22.86,
+            "height": 12.572119444444445,
+            "is_placeholder": true,
+            "placeholder_id": 1,
+            "placeholder_type": "OBJECT (7)",
+            "text": "• 机器学习：通过算法让计算机从数据中学习规律\n• 深度学习：基于神经网络的复杂模式识别技术\n• 自然语言处理：让机器理解和生成人类语言\n• 计算机视觉：使计算机能够\"看懂\"图像和视频\n• 强化学习：通过试错机制优化决策过程",
+            "has_text": true
+          }
+        ],
+        "placeholders": [
+          {
+            "type": "placeholder",
+            "shape_id": 2,
+            "left": 1.27,
+            "top": 0.7628833333333334,
+            "width": 22.86,
+            "height": 3.175,
+            "is_placeholder": true,
+            "placeholder_id": 0,
+            "placeholder_type": "TITLE (1)",
+            "text": "人工智能核心技术介绍",
+            "has_text": true
+          },
+          {
+            "type": "placeholder",
+            "shape_id": 3,
+            "left": 1.27,
+            "top": 4.445,
+            "width": 22.86,
+            "height": 12.572119444444445,
+            "is_placeholder": true,
+            "placeholder_id": 1,
+            "placeholder_type": "OBJECT (7)",
+            "text": "• 机器学习：通过算法让计算机从数据中学习规律\n• 深度学习：基于神经网络的复杂模式识别技术\n• 自然语言处理：让机器理解和生成人类语言\n• 计算机视觉：使计算机能够\"看懂\"图像和视频\n• 强化学习：通过试错机制优化决策过程",
+            "has_text": true
+          }
+        ],
+        "text_content": [
+          {
+            "type": "placeholder",
+            "text": "人工智能核心技术介绍",
+            "placeholder_id": 0
+          },
+          {
+            "type": "placeholder",
+            "text": "• 机器学习：通过算法让计算机从数据中学习规律\n• 深度学习：基于神经网络的复杂模式识别技术\n• 自然语言处理：让机器理解和生成人类语言\n• 计算机视觉：使计算机能够\"看懂\"图像和视频\n• 强化学习：通过试错机制优化决策过程",
+            "placeholder_id": 1
+          }
+        ]
+      },
+      {
+        "slide_index": 2,
+        "layout_name": "Blank",
+        "shapes": [
+          {
+            "type": "text_box",
+            "shape_id": 2,
+            "left": 2.54,
+            "top": 1.27,
+            "width": 20.32,
+            "height": 2.54,
+            "is_placeholder": false,
+            "text": "[自定义标题]",
+            "has_text": true
+          },
+          {
+            "type": "text_box",
+            "shape_id": 3,
+            "left": 2.54,
+            "top": 5.08,
+            "width": 20.32,
+            "height": 10.16,
+            "is_placeholder": false,
+            "text": "[自定义内容占位符]\n\n可以在这里添加更多内容...",
+            "has_text": true
+          }
+        ],
+        "placeholders": [],
+        "text_content": [
+          {
+            "type": "text_box",
+            "text": "[自定义标题]",
+            "placeholder_id": null
+          },
+          {
+            "type": "text_box",
+            "text": "[自定义内容占位符]\n\n可以在这里添加更多内容...",
+            "placeholder_id": null
+          }
+        ]
+      }
+    ],
+    "slide_count": 3,
+    "slide_width": 25.4,
+    "slide_height": 19.05
+  },
+  "stage_3_text_summary": "PPT框架文档包含 3 张幻灯片。\n\n\n幻灯片 1:\n  内容: 人工智能技术概述 | 探索AI技术的核心原理、发展历程与未来趋势\n  占位符数量: 2\n\n幻灯片 2:\n  内容: 人工智能核心技术介绍 | • 机器学习：通过算法让计算机从数据中学习规律\n• 深度学习：基于神经网络的复杂模式识别技术\n• 自然语言处理：让机器理解和生成人类语言\n• 计算机视觉：使计算机能够\"看懂\"图像和视频\n• 强化学习：通过试错机制优化决策过程\n  占位符数量: 2\n\n幻灯片 3:\n  内容: [自定义标题] | [自定义内容占位符]\n\n可以在这里添加更多内容...",
+  "stage_4_placeholder_mapping": {
+    "0": [
+      {
+        "placeholder_id": 0,
+        "placeholder_type": "CENTER_TITLE (3)",
+        "has_text": true,
+        "text": "人工智能技术概述"
+      },
+      {
+        "placeholder_id": 1,
+        "placeholder_type": "SUBTITLE (4)",
+        "has_text": true,
+        "text": "探索AI技术的核心原理、发展历程与未来趋势"
+      }
+    ],
+    "1": [
+      {
+        "placeholder_id": 0,
+        "placeholder_type": "TITLE (1)",
+        "has_text": true,
+        "text": "人工智能核心技术介绍"
+      },
+      {
+        "placeholder_id": 1,
+        "placeholder_type": "OBJECT (7)",
+        "has_text": true,
+        "text": "• 机器学习：通过算法让计算机从数据中学习规律\n• 深度学习：基于神经网络的复杂模式识别技术\n• 自然语言处理：让机器理解和生成人类语言\n• 计算机视觉：使计算机能够\"看懂\"图像和视频\n• 强化学习：通过试错机制优化决策过程"
+      }
+    ]
+  },
+  "stage_5_content_map": {
+    "slide_0_placeholder_0": "人工智能技术概述",
+    "slide_0_placeholder_1": "人工智能（AI）是计算机科学的重要分支，致力于开发能够模拟人类智能的系统和算法。从1956年达特茅斯会议首次提出AI概念，到如今深度学习的蓬勃发展，AI技术经历了多次浪潮。当前，AI正从感知智能向认知智能迈进，在医疗、金融、制造、交通等各领域产生深远影响。未来，随着算力提升、算法优化和数据积累，AI将在自主决策、人机协同等方面实现更大突破。",
+    "slide_1_placeholder_0": "人工智能核心技术介绍",
+    "slide_1_placeholder_1": "• 机器学习：通过算法让计算机从数据中学习规律，包括监督学习、无监督学习和半监督学习\n• 深度学习：基于神经网络的复杂模式识别技术，在图像识别、语音处理等领域表现卓越\n• 自然语言处理：让机器理解和生成人类语言，涵盖文本分析、机器翻译、情感分析等\n• 计算机视觉：使计算机能够\"看懂\"图像和视频，应用于人脸识别、自动驾驶等场景\n• 强化学习：通过试错机制优化决策过程，在游戏AI、机器人控制等领域取得显著成果\n• 知识图谱：构建结构化知识库，支撑智能问答和推理决策",
+    "slide_2_placeholder_0": "人工智能应用场景与未来展望",
+    "slide_2_placeholder_1": "应用场景：\n• 智能医疗：辅助诊断、药物研发、健康管理\n• 智慧金融：风险控制、智能投顾、反欺诈\n• 智能制造：质量检测、预测维护、生产优化\n• 智能交通：自动驾驶、交通调度、路径规划\n• 智能家居：语音助手、环境控制、安防监控\n\n未来展望：\n• 通用人工智能（AGI）的探索与突破\n• 人机协同的深度融合发展\n• 可信AI与伦理规范的建立\n• 边缘计算与AI的深度融合\n• AI在各行业的普惠化应用"
+  },
+  "stage_6_output_file": "demo_interpretation_output.pptx"
+}
