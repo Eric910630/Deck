@@ -138,7 +138,7 @@ Deck 旨在成为 LangChain Agent 的标准 **演示文稿工具 (Presentation T
 ```python
 from langchain.agents import initialize_agent, AgentType
 from langchain.llms import OpenAI
-from langchain_deck.tool import DeckPPTTool
+from langchain_deck.langchain_adapter.tool import DeckPPTTool
 
 # 1. 初始化工具
 ppt_tool = DeckPPTTool()

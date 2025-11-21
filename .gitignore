@@ -7,39 +7,40 @@ __pycache__/
 .Python
 env/
 venv/
-.env
+.env*
 
 # Build & Dist
 
 build/
 dist/
 *.egg-info/
+.playwright-mcp/
 
-# Output Directories (Generated Content)
+# IDE & OS
 
-outputs/
-logs/
-debug/
-html_output/
-ppt_outputs/
-replicated_outputs/
-test_outputs/
-charts/
+.idea/
+.vscode/
+.DS_Store
 
-# Documents & Assets
+# Generated Content & Outputs
 
-docs/
-*.docx
+/outputs/
+/test_outputs/
+/replicated_outputs/
+/html_debug/
+/charts/
+/html_output/
+/ppt_outputs/
+/debug/
+/logs/
+
+# Documents & Assets (Generated)
+
 *.pptx
+*.docx
 *.pdf
 *.png
 *.jpg
-
-# IDE
-
-.vscode/
-.idea/
-.DS_Store
 
 # Logs
 
